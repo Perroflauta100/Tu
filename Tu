@@ -1,0 +1,1637 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 1 8K Xsport" tvg-logo="https://png.pngtree.com/png-clipart/20221212/ourmid/pngtree-k-ultra-hd-button-transparent-video-size-resolution-icon-label-free-png-image_6521541.png" group-title="TR ➤BEiN SPORT",TR: Bein Sport 1 8K Xsport
+http://217.79.184.82:8080/ncm3996ydk/ncm11/58610
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 1 4K Xsport" tvg-logo="https://w7.pngwing.com/pngs/481/439/png-transparent-yellow-4k-4k-resolution-ultra-high-definition-television-resolution-1080p-a-miscellaneous-television-angle.png" group-title="TR ➤BEiN SPORT",TR: Bein Sport 1 4K Xsport
+http://217.79.184.82:8080/ncm3996ydk/ncm11/58611
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 1 Xsport-1" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="TR ➤BEiN SPORT",TR: Bein Sport 1 Xsport-1
+http://217.79.184.82:8080/ncm3996ydk/ncm11/58612
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 1 Xsport-2" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="TR ➤BEiN SPORT",TR: Bein Sport 1 Xsport-2
+http://217.79.184.82:8080/ncm3996ydk/ncm11/58613
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 1 Xsport-3" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="TR ➤BEiN SPORT",TR: Bein Sport 1 Xsport-3
+http://217.79.184.82:8080/ncm3996ydk/ncm11/58614
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 1 Xsport-4" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="TR ➤BEiN SPORT",TR: Bein Sport 1 Xsport-4
+http://217.79.184.82:8080/ncm3996ydk/ncm11/58615
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 1 Xsport-5" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="TR ➤BEiN SPORT",TR: Bein Sport 1 Xsport-5
+http://217.79.184.82:8080/ncm3996ydk/ncm11/58616
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 1 Xsport-6" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="TR ➤BEiN SPORT",TR: Bein Sport 1 Xsport-6
+http://217.79.184.82:8080/ncm3996ydk/ncm11/58617
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 1 Xsport-7" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="TR ➤BEiN SPORT",TR: Bein Sport 1 Xsport-7
+http://217.79.184.82:8080/ncm3996ydk/ncm11/58618
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 1 Xsport-8" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="TR ➤BEiN SPORT",TR: Bein Sport 1 Xsport-8
+http://217.79.184.82:8080/ncm3996ydk/ncm11/58619
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 1 Xsport-9" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="TR ➤BEiN SPORT",TR: Bein Sport 1 Xsport-9
+http://217.79.184.82:8080/ncm3996ydk/ncm11/58620
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 1 Xsport-10" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="TR ➤BEiN SPORT",TR: Bein Sport 1 Xsport-10
+http://217.79.184.82:8080/ncm3996ydk/ncm11/58621
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 1 Xsport-11" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="TR ➤BEiN SPORT",TR: Bein Sport 1 Xsport-11
+http://217.79.184.82:8080/ncm3996ydk/ncm11/58623
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 1 Xsport-12" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="TR ➤BEiN SPORT",TR: Bein Sport 1 Xsport-12
+http://217.79.184.82:8080/ncm3996ydk/ncm11/58624
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 1 Xsport-13" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="TR ➤BEiN SPORT",TR: Bein Sport 1 Xsport-13
+http://217.79.184.82:8080/ncm3996ydk/ncm11/58625
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 2 8K" tvg-logo="https://png.pngtree.com/png-clipart/20221212/ourmid/pngtree-k-ultra-hd-button-transparent-video-size-resolution-icon-label-free-png-image_6521541.png" group-title="TR ➤BEiN SPORT",TR: Bein Sport 2 8K
+http://217.79.184.82:8080/ncm3996ydk/ncm11/58626
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein SPORTS 2 HD" tvg-logo="https://i.ibb.co/2nFhKs8/be-in-tr-sports-02-hd.png" group-title="TR ➤BEiN SPORT",TR: Bein SPORTS 2 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/58627
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein SPORTS 2 UHD" tvg-logo="https://i.ibb.co/2nFhKs8/be-in-tr-sports-02-hd.png" group-title="TR ➤BEiN SPORT",TR: Bein SPORTS 2 UHD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/58628
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein SPORTS 2 (Yedek)" tvg-logo="https://i.ibb.co/2nFhKs8/be-in-tr-sports-02-hd.png" group-title="TR ➤BEiN SPORT",TR: Bein SPORTS 2 (Yedek)
+http://217.79.184.82:8080/ncm3996ydk/ncm11/58629
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORT 3 8K" tvg-logo="https://png.pngtree.com/png-clipart/20221212/ourmid/pngtree-k-ultra-hd-button-transparent-video-size-resolution-icon-label-free-png-image_6521541.png" group-title="TR ➤BEiN SPORT",TR: BEIN SPORT 3 8K
+http://217.79.184.82:8080/ncm3996ydk/ncm11/58630
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein SPORTS 3 HD" tvg-logo="https://i.ibb.co/FxT4x1P/be-in-tr-sports-03-hd.png" group-title="TR ➤BEiN SPORT",TR: Bein SPORTS 3 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/58631
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein SPORTS 3 UHD" tvg-logo="https://i.ibb.co/FxT4x1P/be-in-tr-sports-03-hd.png" group-title="TR ➤BEiN SPORT",TR: Bein SPORTS 3 UHD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/58632
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein SPORTS 4 HD" tvg-logo="https://i.ibb.co/2k7RV8S/be-in-tr-sports-04-hd.png" group-title="TR ➤BEiN SPORT",TR: Bein SPORTS 4 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/58633
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 4 UHD" tvg-logo="https://i.ibb.co/2k7RV8S/be-in-tr-sports-04-hd.png" group-title="TR ➤BEiN SPORT",TR: beIN SPORTS 4 UHD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/58634
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 5 HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="TR ➤BEiN SPORT",TR: beIN SPORTS 5 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/58635
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 5 UHD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="TR ➤BEiN SPORT",TR: beIN SPORTS 5 UHD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/58636
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS MAX 1 UHD" tvg-logo="https://i.ibb.co/hLm58rM/bein-sports-max-1-qa-tr.png" group-title="TR ➤BEiN SPORT",TR: beIN SPORTS MAX 1 UHD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/58637
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS MAX 2 UHD" tvg-logo="https://i.ibb.co/Nn04gp5/bein-sports-max-2-qa-tr.png" group-title="TR ➤BEiN SPORT",TR: beIN SPORTS MAX 2 UHD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/58638
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS HABER HD" tvg-logo="https://i.ibb.co/sbpWcfv/bein-sports-haber-qa-tr.png" group-title="TR ➤BEiN SPORT",TR: beIN SPORTS HABER HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/58639
+#EXTINF:-1 tvg-id="" tvg-name="TR| S-SPORT 1 HD" tvg-logo="https://imagizer.imageshack.com/img922/2875/6kFCuk.png" group-title="TR ➤S Sports ",TR| S-SPORT 1 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/57884
+#EXTINF:-1 tvg-id="" tvg-name="TR | S-SPORT PLUS" tvg-logo="http://logo.gulatv.xyz/Logo/TR/SARAN.S.SPORTS/FHD/S.SPORT.png" group-title="TR ➤S Sports ",TR | S-SPORT PLUS
+http://217.79.184.82:8080/ncm3996ydk/ncm11/57843
+#EXTINF:-1 tvg-id="" tvg-name="TR | S SPORT PLUS FHD" tvg-logo="https://imagizer.imageshack.com/img923/9075/E9ooBn.png" group-title="TR ➤S Sports ",TR | S SPORT PLUS FHD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/57844
+#EXTINF:-1 tvg-id="" tvg-name="TR | S Sport PLUS HD" tvg-logo="https://imagizer.imageshack.com/img924/7016/6oFcMZ.png" group-title="TR ➤S Sports ",TR | S Sport PLUS HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/57845
+#EXTINF:-1 tvg-id="" tvg-name="TR | S-SPORT 1 HD" tvg-logo="https://imagizer.imageshack.com/img922/2875/6kFCuk.png" group-title="TR ➤S Sports ",TR | S-SPORT 1 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/57846
+#EXTINF:-1 tvg-id="" tvg-name="TR | S-SPORT 2 FHD" tvg-logo="https://imagizer.imageshack.com/img922/2875/6kFCuk.png" group-title="TR ➤S Sports ",TR | S-SPORT 2 FHD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/57847
+#EXTINF:-1 tvg-id="" tvg-name="TR | S SPORT 2 FHD" tvg-logo="https://imagizer.imageshack.com/img924/5886/XSbQZC.png" group-title="TR ➤S Sports ",TR | S SPORT 2 FHD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/57848
+#EXTINF:-1 tvg-id="" tvg-name="TR | S-SPORT 2 HD" tvg-logo="https://imagizer.imageshack.com/img924/2981/xvXCNE.png" group-title="TR ➤S Sports ",TR | S-SPORT 2 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/57849
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+4 Mac Saati" tvg-logo="https://imagizer.imageshack.com/img923/9936/9OFIu4.png" group-title="TR ➤S Sports ",TR: S Sport+4 Mac Saati
+http://217.79.184.82:8080/ncm3996ydk/ncm11/57853
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+5 Mac Saati" tvg-logo="https://imagizer.imageshack.com/img923/1665/66YDyr.png" group-title="TR ➤S Sports ",TR: S Sport+5 Mac Saati
+http://217.79.184.82:8080/ncm3996ydk/ncm11/57854
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT + 6 Mac Saati" tvg-logo="https://imagizer.imageshack.com/img923/8083/AzUJ2W.png" group-title="TR ➤S Sports ",TR: S SPORT + 6 Mac Saati
+http://217.79.184.82:8080/ncm3996ydk/ncm11/57855
+#EXTINF:-1 tvg-id="" tvg-name="|TR| S SPORT HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/SARAN.S.SPORTS/HD/S.SPORT.png" group-title="TR ➤S Sports ",|TR| S SPORT HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/57856
+#EXTINF:-1 tvg-id="" tvg-name="TR | SPOR SMART FHD" tvg-logo="http://logo.superbtv.online/Logo/TR/SARAN.S.SPORTS/FHD/SPOR.SMART.png" group-title="TR ➤D-Smart Sports",TR | SPOR SMART FHD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/57857
+#EXTINF:-1 tvg-id="" tvg-name="TR | SPOR SMART HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/SARAN.S.SPORTS/HD/SPOR.SMART.png" group-title="TR ➤D-Smart Sports",TR | SPOR SMART HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/57858
+#EXTINF:-1 tvg-id="" tvg-name="TR | SPOR SMART 2 HD+" tvg-logo="http://logo.gulatv.xyz/Logo/TR/SARAN.S.SPORTS/HD/SPOR.SMART.2.png" group-title="TR ➤D-Smart Sports",TR | SPOR SMART 2 HD+
+http://217.79.184.82:8080/ncm3996ydk/ncm11/57859
+#EXTINF:-1 tvg-id="" tvg-name="TR | SPOR SMART 2 HD+" tvg-logo="http://logo.gulatv.xyz/Logo/TR/SARAN.S.SPORTS/HD/SPOR.SMART.2.png" group-title="TR ➤D-Smart Sports",TR | SPOR SMART 2 HD+
+http://217.79.184.82:8080/ncm3996ydk/ncm11/57860
+#EXTINF:-1 tvg-id="" tvg-name="TR: SPOR SMART 2 [](maçta açık,)" tvg-logo="" group-title="TR ➤D-Smart Sports",TR: SPOR SMART 2 [](maçta açık,)
+http://217.79.184.82:8080/ncm3996ydk/ncm11/57861
+#EXTINF:-1 tvg-id="" tvg-name="TR: NBA TV HD+" tvg-logo="https://imagizer.imageshack.com/img924/593/i6XR1S.png" group-title="TR ➤Diğer Spor Kanalları",TR: NBA TV HD+
+http://217.79.184.82:8080/ncm3996ydk/ncm11/57870
+#EXTINF:-1 tvg-id="" tvg-name="TR: NBA TV HD" tvg-logo="https://imagizer.imageshack.com/img924/6655/QWR0O4.png" group-title="TR ➤Diğer Spor Kanalları",TR: NBA TV HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/57871
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR HD+" tvg-logo="https://imagizer.imageshack.com/img924/8126/A94YQF.png" group-title="TR ➤Diğer Spor Kanalları",TR: TRT SPOR HD+
+http://217.79.184.82:8080/ncm3996ydk/ncm11/57872
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR HD" tvg-logo="https://imagizer.imageshack.com/img924/1395/9nci21.png" group-title="TR ➤Diğer Spor Kanalları",TR: TRT SPOR HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/57873
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR YILDIZ HD+" tvg-logo="https://imagizer.imageshack.com/img922/3413/0BgyiY.png" group-title="TR ➤Diğer Spor Kanalları",TR: TRT SPOR YILDIZ HD+
+http://217.79.184.82:8080/ncm3996ydk/ncm11/57874
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR YILDIZ HD" tvg-logo="https://imagizer.imageshack.com/img922/3852/AffC2x.png" group-title="TR ➤Diğer Spor Kanalları",TR: TRT SPOR YILDIZ HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/57875
+#EXTINF:-1 tvg-id="" tvg-name="TR: EUROSPORT 2 HD+" tvg-logo="https://imagizer.imageshack.com/img924/1492/NzipQS.png" group-title="TR ➤D-Smart Sports",TR: EUROSPORT 2 HD+
+http://217.79.184.82:8080/ncm3996ydk/ncm11/57877
+#EXTINF:-1 tvg-id="" tvg-name="TR: GS TV HD" tvg-logo="https://imagizer.imageshack.com/img924/9840/33pFx2.png" group-title="TR ➤Diğer Spor Kanalları",TR: GS TV HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/57878
+#EXTINF:-1 tvg-id="" tvg-name="TR: TJK TV HD" tvg-logo="https://imagizer.imageshack.com/img924/5153/2SIAyq.png" group-title="TR ➤Diğer Spor Kanalları",TR: TJK TV HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/57879
+#EXTINF:-1 tvg-id="" tvg-name="TR| EURO SPORT 1 HD" tvg-logo="https://imagizer.imageshack.com/img922/380/5GQN4t.png" group-title="TR ➤D-Smart Sports",TR| EURO SPORT 1 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/57882
+#EXTINF:-1 tvg-id="" tvg-name="TR| SPORT SMART 1 HD" tvg-logo="" group-title="TR ➤D-Smart Sports",TR| SPORT SMART 1 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/57883
+#EXTINF:-1 tvg-id="" tvg-name="TR| TRT SPOR 1 HD" tvg-logo="https://imagizer.imageshack.com/img924/1395/9nci21.png" group-title="TR ➤Diğer Spor Kanalları",TR| TRT SPOR 1 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/57886
+#EXTINF:-1 tvg-id="" tvg-name="TR| TRT SPOR YILDIZ HD" tvg-logo="https://imagizer.imageshack.com/img922/3852/AffC2x.png" group-title="TR ➤Diğer Spor Kanalları",TR| TRT SPOR YILDIZ HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/57888
+#EXTINF:-1 tvg-id="" tvg-name="A SPOR HD+" tvg-logo="https://imagizer.imageshack.com/img924/370/IdV9sw.png" group-title="TR ➤Diğer Spor Kanalları",A SPOR HD+
+http://217.79.184.82:8080/ncm3996ydk/ncm11/57869
+#EXTINF:-1 tvg-id="" tvg-name="TR| A SPOR HD" tvg-logo="https://imagizer.imageshack.com/img924/8193/cyFBDf.png" group-title="TR ➤Diğer Spor Kanalları",TR| A SPOR HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/57889
+#EXTINF:-1 tvg-id="" tvg-name="TR| FB TV HD" tvg-logo="https://imagizer.imageshack.com/img922/6193/pFr1XN.png" group-title="TR ➤Diğer Spor Kanalları",TR| FB TV HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/57890
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEiN MOVIES ACTION HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-action-qa-tr.png" group-title=" TR ➤BEiN SiNEMA ",TR: BEiN MOVIES ACTION HD+
+http://217.79.184.82:8080/ncm3996ydk/ncm11/84250
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEiN MOVIES ACTION 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-action-2-qa-tr.png" group-title=" TR ➤BEiN SiNEMA ",TR: BEiN MOVIES ACTION 2 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/84251
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEiN MOVIES FAMILY HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-family-qa-tr.png" group-title=" TR ➤BEiN SiNEMA ",TR: BEiN MOVIES FAMILY HD+
+http://217.79.184.82:8080/ncm3996ydk/ncm11/84252
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEiN MOVIES PREMIER HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-premiere-qa-tr.png" group-title=" TR ➤BEiN SiNEMA ",TR: BEiN MOVIES PREMIER HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/84253
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEiN MOVIES PREMIERE 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-premiere-2-qa-tr.png" group-title=" TR ➤BEiN SiNEMA ",TR: BEiN MOVIES PREMIERE 2 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/84254
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEiN MOVIES STARS HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-stars-qa-tr.png" group-title=" TR ➤BEiN SiNEMA ",TR: BEiN MOVIES STARS HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/84255
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEiN MOVIES TURK HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-turk-qa-tr.png" group-title=" TR ➤BEiN SiNEMA ",TR: BEiN MOVIES TURK HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/84256
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEiN SERIES COMEDY HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-series-comedy-qa-tr.png" group-title=" TR ➤BEiN SiNEMA ",TR: BEiN SERIES COMEDY HD+
+http://217.79.184.82:8080/ncm3996ydk/ncm11/84257
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEiN SERIES DRAMA HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-series-drama-qa-tr.png" group-title=" TR ➤BEiN SiNEMA ",TR: BEiN SERIES DRAMA HD+
+http://217.79.184.82:8080/ncm3996ydk/ncm11/84258
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEiN SERIES SCFI HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-series-sci-fi-qa-tr.png" group-title=" TR ➤BEiN SiNEMA ",TR: BEiN SERIES SCFI HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/84259
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEiN SERIES VICE HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-series-vice-qa-tr.png" group-title=" TR ➤BEiN SiNEMA ",TR: BEiN SERIES VICE HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/84260
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIESMART ACTION HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/moviesmart-action-tr.png" group-title=" TR ➤BEiN SiNEMA ",TR: MOVIESMART ACTION HD+
+http://217.79.184.82:8080/ncm3996ydk/ncm11/84261
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIESMART CLASSIC HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/moviesmart-classic-tr.png" group-title=" TR ➤BEiN SiNEMA ",TR: MOVIESMART CLASSIC HD+
+http://217.79.184.82:8080/ncm3996ydk/ncm11/84262
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIESMART FAMLY HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/moviesmart-family-tr.png" group-title=" TR ➤BEiN SiNEMA ",TR: MOVIESMART FAMLY HD+
+http://217.79.184.82:8080/ncm3996ydk/ncm11/84263
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIESMART PLATIN 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/moviesmart-platin-2-tr.png" group-title=" TR ➤BEiN SiNEMA ",TR: MOVIESMART PLATIN 2 HD+
+http://217.79.184.82:8080/ncm3996ydk/ncm11/84264
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIESMART PREMIUM 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/moviesmart-premium-2-tr.png" group-title=" TR ➤BEiN SiNEMA ",TR: MOVIESMART PREMIUM 2 HD+
+http://217.79.184.82:8080/ncm3996ydk/ncm11/84265
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIESMART PREMIUM HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/moviesmart-premium-tr.png" group-title=" TR ➤BEiN SiNEMA ",TR: MOVIESMART PREMIUM HD+
+http://217.79.184.82:8080/ncm3996ydk/ncm11/84266
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIESMART TURK HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/moviesmart-turk-tr.png" group-title=" TR ➤BEiN SiNEMA ",TR: MOVIESMART TURK HD+
+http://217.79.184.82:8080/ncm3996ydk/ncm11/84267
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEiN BOX OFFICE 1 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_tr_box_office_01_hd.png" group-title=" TR ➤BEiN SiNEMA ",TR: BEiN BOX OFFICE 1 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/84268
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEiN BOX OFFICE 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_tr_box_office_02_hd.png" group-title=" TR ➤BEiN SiNEMA ",TR: BEiN BOX OFFICE 2 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/84269
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEiN BOX OFFICE 3 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_tr_box_office_03_hd.png" group-title=" TR ➤BEiN SiNEMA ",TR: BEiN BOX OFFICE 3 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/84270
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TV 1001 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-1001-tr.png" group-title=" TR ➤BEiN SiNEMA ",TR: SINEMA TV 1001 HD+
+http://217.79.184.82:8080/ncm3996ydk/ncm11/84271
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TV 1002 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-1002-tr.png" group-title=" TR ➤BEiN SiNEMA ",TR: SINEMA TV 1002 HD+
+http://217.79.184.82:8080/ncm3996ydk/ncm11/84272
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TV 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-2-tr.png" group-title=" TR ➤BEiN SiNEMA ",TR: SINEMA TV 2 HD+
+http://217.79.184.82:8080/ncm3996ydk/ncm11/84273
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TV AKSIYON 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-aksiyon-2-tr.png" group-title=" TR ➤BEiN SiNEMA ",TR: SINEMA TV AKSIYON 2 HD+
+http://217.79.184.82:8080/ncm3996ydk/ncm11/84274
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TV AKSIYON HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-aksiyon-tr.png" group-title=" TR ➤BEiN SiNEMA ",TR: SINEMA TV AKSIYON HD+
+http://217.79.184.82:8080/ncm3996ydk/ncm11/84275
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TV AILE HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-aile-tr.png" group-title=" TR ➤BEiN SiNEMA ",TR: SINEMA TV AILE HD+
+http://217.79.184.82:8080/ncm3996ydk/ncm11/84276
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TV HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-tv-tr.png" group-title=" TR ➤BEiN SiNEMA ",TR: SINEMA TV HD+
+http://217.79.184.82:8080/ncm3996ydk/ncm11/84277
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TV KOMEDI HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-komedi-tr.png" group-title=" TR ➤BEiN SiNEMA ",TR: SINEMA TV KOMEDI HD+
+http://217.79.184.82:8080/ncm3996ydk/ncm11/84278
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TV YERLI  HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-yerli-tr.png" group-title=" TR ➤BEiN SiNEMA ",TR: SINEMA TV YERLI  HD+
+http://217.79.184.82:8080/ncm3996ydk/ncm11/84279
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX YERLI 1" tvg-logo="https://i.hizliresim.com/kc2p32p.png" group-title=" TR ➤SiNEMA SALON",NETFLIX YERLI 1
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87831
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX YERLI 2" tvg-logo="https://i.hizliresim.com/kc2p32p.png" group-title=" TR ➤SiNEMA SALON",NETFLIX YERLI 2
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87832
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX YERLI 3" tvg-logo="https://i.hizliresim.com/kc2p32p.png" group-title=" TR ➤SiNEMA SALON",NETFLIX YERLI 3
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87833
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX YERLI 4" tvg-logo="https://i.hizliresim.com/kc2p32p.png" group-title=" TR ➤SiNEMA SALON",NETFLIX YERLI 4
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87834
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX YERLI 5" tvg-logo="https://i.hizliresim.com/kc2p32p.png" group-title=" TR ➤SiNEMA SALON",NETFLIX YERLI 5
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87835
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX YERLI 6" tvg-logo="https://i.hizliresim.com/kc2p32p.png" group-title=" TR ➤SiNEMA SALON",NETFLIX YERLI 6
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87836
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX YERLI 7" tvg-logo="https://i.hizliresim.com/kc2p32p.png" group-title=" TR ➤SiNEMA SALON",NETFLIX YERLI 7
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87837
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX YERLI 8" tvg-logo="https://i.hizliresim.com/kc2p32p.png" group-title=" TR ➤SiNEMA SALON",NETFLIX YERLI 8
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87838
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX YERLI 9" tvg-logo="https://i.hizliresim.com/kc2p32p.png" group-title=" TR ➤SiNEMA SALON",NETFLIX YERLI 9
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87839
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX YERLI 10" tvg-logo="https://i.hizliresim.com/kc2p32p.png" group-title=" TR ➤SiNEMA SALON",NETFLIX YERLI 10
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87840
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX KORKU 1" tvg-logo="https://i.hizliresim.com/beoaqwa.png" group-title=" TR ➤SiNEMA SALON",NETFLIX KORKU 1
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87841
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX KORKU 2" tvg-logo="https://i.hizliresim.com/beoaqwa.png" group-title=" TR ➤SiNEMA SALON",NETFLIX KORKU 2
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87842
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX  KORKU 3" tvg-logo="https://i.hizliresim.com/beoaqwa.png" group-title=" TR ➤SiNEMA SALON",NETFLIX  KORKU 3
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87843
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX KORKU 4" tvg-logo="https://i.hizliresim.com/beoaqwa.png" group-title=" TR ➤SiNEMA SALON",NETFLIX KORKU 4
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87844
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX KORKU 5" tvg-logo="https://i.hizliresim.com/beoaqwa.png" group-title=" TR ➤SiNEMA SALON",NETFLIX KORKU 5
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87845
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX KORKU 6" tvg-logo="https://i.hizliresim.com/beoaqwa.png" group-title=" TR ➤SiNEMA SALON",NETFLIX KORKU 6
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87846
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX KORKU 7" tvg-logo="https://i.hizliresim.com/beoaqwa.png" group-title=" TR ➤SiNEMA SALON",NETFLIX KORKU 7
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87847
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX KORKU 8" tvg-logo="https://i.hizliresim.com/beoaqwa.png" group-title=" TR ➤SiNEMA SALON",NETFLIX KORKU 8
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87848
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX KORKU 9" tvg-logo="https://i.hizliresim.com/beoaqwa.png" group-title=" TR ➤SiNEMA SALON",NETFLIX KORKU 9
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87849
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX KORKU 10" tvg-logo="https://i.hizliresim.com/beoaqwa.png" group-title=" TR ➤SiNEMA SALON",NETFLIX KORKU 10
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87850
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX SAVAS 1" tvg-logo="https://i.hizliresim.com/gqa3ekh.png" group-title=" TR ➤SiNEMA SALON",NETFLIX SAVAS 1
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87851
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX SAVAS 2" tvg-logo="https://i.hizliresim.com/gqa3ekh.png" group-title=" TR ➤SiNEMA SALON",NETFLIX SAVAS 2
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87852
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX SAVAS 3" tvg-logo="https://i.hizliresim.com/gqa3ekh.png" group-title=" TR ➤SiNEMA SALON",NETFLIX SAVAS 3
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87853
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX SAVAS 4" tvg-logo="https://i.hizliresim.com/gqa3ekh.png" group-title=" TR ➤SiNEMA SALON",NETFLIX SAVAS 4
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87854
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX SAVAS 5" tvg-logo="https://i.hizliresim.com/gqa3ekh.png" group-title=" TR ➤SiNEMA SALON",NETFLIX SAVAS 5
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87855
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX SAVAS 6" tvg-logo="https://i.hizliresim.com/gqa3ekh.png" group-title=" TR ➤SiNEMA SALON",NETFLIX SAVAS 6
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87856
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX SAVAS 7" tvg-logo="https://i.hizliresim.com/gqa3ekh.png" group-title=" TR ➤SiNEMA SALON",NETFLIX SAVAS 7
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87857
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX SAVAS 8" tvg-logo="https://i.hizliresim.com/gqa3ekh.png" group-title=" TR ➤SiNEMA SALON",NETFLIX SAVAS 8
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87858
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX SAVAS 9" tvg-logo="https://i.hizliresim.com/gqa3ekh.png" group-title=" TR ➤SiNEMA SALON",NETFLIX SAVAS 9
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87859
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX SAVAS 10" tvg-logo="https://i.hizliresim.com/gqa3ekh.png" group-title=" TR ➤SiNEMA SALON",NETFLIX SAVAS 10
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87860
+#EXTINF:-1 tvg-id="" tvg-name="DUBLAJ 1" tvg-logo="https://i.hizliresim.com/as3e498.jpg" group-title=" TR ➤SiNEMA SALON",DUBLAJ 1
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87861
+#EXTINF:-1 tvg-id="" tvg-name="DUBLAJ 2" tvg-logo="https://i.hizliresim.com/as3e498.jpg" group-title=" TR ➤SiNEMA SALON",DUBLAJ 2
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87862
+#EXTINF:-1 tvg-id="" tvg-name="DUBLAJ 3" tvg-logo="https://i.hizliresim.com/as3e498.jpg" group-title=" TR ➤SiNEMA SALON",DUBLAJ 3
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87863
+#EXTINF:-1 tvg-id="" tvg-name="DUBLAJ 4" tvg-logo="https://i.hizliresim.com/as3e498.jpg" group-title=" TR ➤SiNEMA SALON",DUBLAJ 4
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87864
+#EXTINF:-1 tvg-id="" tvg-name="DUBLAJ 5" tvg-logo="https://i.hizliresim.com/as3e498.jpg" group-title=" TR ➤SiNEMA SALON",DUBLAJ 5
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87865
+#EXTINF:-1 tvg-id="" tvg-name="DUBLAJ 6" tvg-logo="https://i.hizliresim.com/as3e498.jpg" group-title=" TR ➤SiNEMA SALON",DUBLAJ 6
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87866
+#EXTINF:-1 tvg-id="" tvg-name="DUBLAJ 7" tvg-logo="https://i.hizliresim.com/as3e498.jpg" group-title=" TR ➤SiNEMA SALON",DUBLAJ 7
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87867
+#EXTINF:-1 tvg-id="" tvg-name="DUBLAJ 8" tvg-logo="https://i.hizliresim.com/as3e498.jpg" group-title=" TR ➤SiNEMA SALON",DUBLAJ 8
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87868
+#EXTINF:-1 tvg-id="" tvg-name="DUBLAJ 9" tvg-logo="https://i.hizliresim.com/as3e498.jpg" group-title=" TR ➤SiNEMA SALON",DUBLAJ 9
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87869
+#EXTINF:-1 tvg-id="" tvg-name="DUBLAJ 10" tvg-logo="https://i.hizliresim.com/as3e498.jpg" group-title=" TR ➤SiNEMA SALON",DUBLAJ 10
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87870
+#EXTINF:-1 tvg-id="" tvg-name="DUBLAJ 11" tvg-logo="https://i.hizliresim.com/as3e498.jpg" group-title=" TR ➤SiNEMA SALON",DUBLAJ 11
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87871
+#EXTINF:-1 tvg-id="" tvg-name="DUBLAJ 12" tvg-logo="https://i.hizliresim.com/as3e498.jpg" group-title=" TR ➤SiNEMA SALON",DUBLAJ 12
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87872
+#EXTINF:-1 tvg-id="" tvg-name="DUBLAJ 13" tvg-logo="https://i.hizliresim.com/as3e498.jpg" group-title=" TR ➤SiNEMA SALON",DUBLAJ 13
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87873
+#EXTINF:-1 tvg-id="" tvg-name="DUBLAJ 14" tvg-logo="https://i.hizliresim.com/as3e498.jpg" group-title=" TR ➤SiNEMA SALON",DUBLAJ 14
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87874
+#EXTINF:-1 tvg-id="" tvg-name="DUBLAJ 15" tvg-logo="https://i.hizliresim.com/as3e498.jpg" group-title=" TR ➤SiNEMA SALON",DUBLAJ 15
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87875
+#EXTINF:-1 tvg-id="" tvg-name="DUBLAJ 16" tvg-logo="https://i.hizliresim.com/as3e498.jpg" group-title=" TR ➤SiNEMA SALON",DUBLAJ 16
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87876
+#EXTINF:-1 tvg-id="" tvg-name="DUBLAJ 17" tvg-logo="https://i.hizliresim.com/as3e498.jpg" group-title=" TR ➤SiNEMA SALON",DUBLAJ 17
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87877
+#EXTINF:-1 tvg-id="" tvg-name="DUBLAJ 18" tvg-logo="https://i.hizliresim.com/as3e498.jpg" group-title=" TR ➤SiNEMA SALON",DUBLAJ 18
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87878
+#EXTINF:-1 tvg-id="" tvg-name="DUBLAJ 19" tvg-logo="https://i.hizliresim.com/as3e498.jpg" group-title=" TR ➤SiNEMA SALON",DUBLAJ 19
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87879
+#EXTINF:-1 tvg-id="" tvg-name="DUBLAJ 20" tvg-logo="https://i.hizliresim.com/as3e498.jpg" group-title=" TR ➤SiNEMA SALON",DUBLAJ 20
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87880
+#EXTINF:-1 tvg-id="" tvg-name="TR:  VIZYON 1" tvg-logo="https://i.hizliresim.com/623oc1w.jpg" group-title=" TR ➤SiNEMA SALON",TR:  VIZYON 1
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87881
+#EXTINF:-1 tvg-id="" tvg-name="TR:  VIZYON 2" tvg-logo="https://i.hizliresim.com/623oc1w.jpg" group-title=" TR ➤SiNEMA SALON",TR:  VIZYON 2
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87882
+#EXTINF:-1 tvg-id="" tvg-name="TR:  VIZYON 3" tvg-logo="https://i.hizliresim.com/623oc1w.jpg" group-title=" TR ➤SiNEMA SALON",TR:  VIZYON 3
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87883
+#EXTINF:-1 tvg-id="" tvg-name="TR:  VIZYON 4" tvg-logo="https://i.hizliresim.com/623oc1w.jpg" group-title=" TR ➤SiNEMA SALON",TR:  VIZYON 4
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87884
+#EXTINF:-1 tvg-id="" tvg-name="TR:  VIZYON 5" tvg-logo="https://i.hizliresim.com/623oc1w.jpg" group-title=" TR ➤SiNEMA SALON",TR:  VIZYON 5
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87885
+#EXTINF:-1 tvg-id="" tvg-name="TR:  VIZYON 6" tvg-logo="https://i.hizliresim.com/623oc1w.jpg" group-title=" TR ➤SiNEMA SALON",TR:  VIZYON 6
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87886
+#EXTINF:-1 tvg-id="" tvg-name="TR:  VIZYON 7" tvg-logo="https://i.hizliresim.com/623oc1w.jpg" group-title=" TR ➤SiNEMA SALON",TR:  VIZYON 7
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87887
+#EXTINF:-1 tvg-id="" tvg-name="TR:  VIZYON 8" tvg-logo="https://i.hizliresim.com/623oc1w.jpg" group-title=" TR ➤SiNEMA SALON",TR:  VIZYON 8
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87888
+#EXTINF:-1 tvg-id="" tvg-name="TR:  VIZYON 9" tvg-logo="https://i.hizliresim.com/623oc1w.jpg" group-title=" TR ➤SiNEMA SALON",TR:  VIZYON 9
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87889
+#EXTINF:-1 tvg-id="" tvg-name="TR:  VIZYON 10" tvg-logo="https://i.hizliresim.com/623oc1w.jpg" group-title=" TR ➤SiNEMA SALON",TR:  VIZYON 10
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87890
+#EXTINF:-1 tvg-id="" tvg-name="TR➾  4K UHD" tvg-logo="https://i.hizliresim.com/623oc1w.jpg" group-title=" TR ➤SiNEMA SALON",TR➾  4K UHD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87891
+#EXTINF:-1 tvg-id="" tvg-name="TR➾  TURK HD" tvg-logo="https://i.hizliresim.com/623oc1w.jpg" group-title=" TR ➤SiNEMA SALON",TR➾  TURK HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87892
+#EXTINF:-1 tvg-id="" tvg-name="TR➾  NOSTALGIL HD" tvg-logo="https://i.hizliresim.com/623oc1w.jpg" group-title=" TR ➤SiNEMA SALON",TR➾  NOSTALGIL HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87893
+#EXTINF:-1 tvg-id="" tvg-name="TR➾  FESTIVAL HD" tvg-logo="https://i.hizliresim.com/623oc1w.jpg" group-title=" TR ➤SiNEMA SALON",TR➾  FESTIVAL HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87894
+#EXTINF:-1 tvg-id="" tvg-name="TR➾  STARS HD" tvg-logo="https://i.hizliresim.com/623oc1w.jpg" group-title=" TR ➤SiNEMA SALON",TR➾  STARS HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87895
+#EXTINF:-1 tvg-id="" tvg-name="TR➾  PREMIER HD" tvg-logo="https://i.hizliresim.com/623oc1w.jpg" group-title=" TR ➤SiNEMA SALON",TR➾  PREMIER HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87896
+#EXTINF:-1 tvg-id="" tvg-name="TR➾  GOLD HD" tvg-logo="https://i.hizliresim.com/623oc1w.jpg" group-title=" TR ➤SiNEMA SALON",TR➾  GOLD HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87897
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ NEXTBOX CINEMA TURK" tvg-logo="https://i.hizliresim.com/623oc1w.jpg" group-title=" TR ➤SiNEMA SALON",TR➾ NEXTBOX CINEMA TURK
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87898
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ NEXTBOX CINEMA VIZYON" tvg-logo="https://i.hizliresim.com/623oc1w.jpg" group-title=" TR ➤SiNEMA SALON",TR➾ NEXTBOX CINEMA VIZYON
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87899
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ NEXTBOX CINEMA STARS" tvg-logo="https://i.hizliresim.com/623oc1w.jpg" group-title=" TR ➤SiNEMA SALON",TR➾ NEXTBOX CINEMA STARS
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87900
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ NEXTBOX SCARY" tvg-logo="https://i.hizliresim.com/623oc1w.jpg" group-title=" TR ➤SiNEMA SALON",TR➾ NEXTBOX SCARY
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87901
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ NEXTBOX SUBTITLE" tvg-logo="https://i.hizliresim.com/623oc1w.jpg" group-title=" TR ➤SiNEMA SALON",TR➾ NEXTBOX SUBTITLE
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87902
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ YERLI 1 HD" tvg-logo="https://i.hizliresim.com/2wr2dfs.jpg" group-title=" TR ➤SiNEMA SALON",TR➾ YERLI 1 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87903
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ YERLI 2 HD" tvg-logo="https://i.hizliresim.com/2wr2dfs.jpg" group-title=" TR ➤SiNEMA SALON",TR➾ YERLI 2 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87904
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ YERLI 3 HD" tvg-logo="https://i.hizliresim.com/2wr2dfs.jpg" group-title=" TR ➤SiNEMA SALON",TR➾ YERLI 3 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87905
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ YERLI 4 HD" tvg-logo="https://i.hizliresim.com/2wr2dfs.jpg" group-title=" TR ➤SiNEMA SALON",TR➾ YERLI 4 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87906
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ YERLI 5 HD" tvg-logo="https://i.hizliresim.com/2wr2dfs.jpg" group-title=" TR ➤SiNEMA SALON",TR➾ YERLI 5 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87907
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ YERLI 6 HD" tvg-logo="https://i.hizliresim.com/2wr2dfs.jpg" group-title=" TR ➤SiNEMA SALON",TR➾ YERLI 6 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87908
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ YERLI 7 HD" tvg-logo="https://i.hizliresim.com/2wr2dfs.jpg" group-title=" TR ➤SiNEMA SALON",TR➾ YERLI 7 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87909
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ YERLI 8 HD" tvg-logo="https://i.hizliresim.com/2wr2dfs.jpg" group-title=" TR ➤SiNEMA SALON",TR➾ YERLI 8 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87910
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ YERLI 9 HD" tvg-logo="https://i.hizliresim.com/2wr2dfs.jpg" group-title=" TR ➤SiNEMA SALON",TR➾ YERLI 9 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87911
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ YERLI 10 HD" tvg-logo="https://i.hizliresim.com/2wr2dfs.jpg" group-title=" TR ➤SiNEMA SALON",TR➾ YERLI 10 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87912
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ YERLI 11 HD" tvg-logo="https://i.hizliresim.com/2wr2dfs.jpg" group-title=" TR ➤SiNEMA SALON",TR➾ YERLI 11 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87913
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ YERLI 12 HD" tvg-logo="https://i.hizliresim.com/2wr2dfs.jpg" group-title=" TR ➤SiNEMA SALON",TR➾ YERLI 12 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87914
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ YERLI 13 HD" tvg-logo="https://i.hizliresim.com/2wr2dfs.jpg" group-title=" TR ➤SiNEMA SALON",TR➾ YERLI 13 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87915
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ YERLI 14 HD" tvg-logo="https://i.hizliresim.com/2wr2dfs.jpg" group-title=" TR ➤SiNEMA SALON",TR➾ YERLI 14 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87916
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ YERLI 15 HD" tvg-logo="https://i.hizliresim.com/2wr2dfs.jpg" group-title=" TR ➤SiNEMA SALON",TR➾ YERLI 15 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87917
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ YERLI 16 HD" tvg-logo="https://i.hizliresim.com/2wr2dfs.jpg" group-title=" TR ➤SiNEMA SALON",TR➾ YERLI 16 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87918
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ YERLI 17 HD" tvg-logo="https://i.hizliresim.com/2wr2dfs.jpg" group-title=" TR ➤SiNEMA SALON",TR➾ YERLI 17 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87919
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ YERLI 18 HD" tvg-logo="https://i.hizliresim.com/2wr2dfs.jpg" group-title=" TR ➤SiNEMA SALON",TR➾ YERLI 18 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87920
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ YERLI 19 HD" tvg-logo="https://i.hizliresim.com/2wr2dfs.jpg" group-title=" TR ➤SiNEMA SALON",TR➾ YERLI 19 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87921
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ YERLI 20 HD" tvg-logo="https://i.hizliresim.com/2wr2dfs.jpg" group-title=" TR ➤SiNEMA SALON",TR➾ YERLI 20 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87922
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FILM BOX OFFICE 1" tvg-logo="http://play.iptvcity.tk/logolar/BeonLogolar/film_box_office_Logo/1.png" group-title=" TR ➤SiNEMA SALON",TR➾ FILM BOX OFFICE 1
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87923
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FILM BOX OFFICE 2" tvg-logo="http://play.iptvcity.tk/logolar/BeonLogolar/film_box_office_Logo/2.png" group-title=" TR ➤SiNEMA SALON",TR➾ FILM BOX OFFICE 2
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87924
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FILM BOX OFFICE 3" tvg-logo="http://play.iptvcity.tk/logolar/BeonLogolar/film_box_office_Logo/3.png" group-title=" TR ➤SiNEMA SALON",TR➾ FILM BOX OFFICE 3
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87925
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FILM BOX OFFICE 4" tvg-logo="http://play.iptvcity.tk/logolar/BeonLogolar/film_box_office_Logo/4.png" group-title=" TR ➤SiNEMA SALON",TR➾ FILM BOX OFFICE 4
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87926
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FILM BOX OFFICE 5" tvg-logo="http://play.iptvcity.tk/logolar/BeonLogolar/film_box_office_Logo/5.png" group-title=" TR ➤SiNEMA SALON",TR➾ FILM BOX OFFICE 5
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87927
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FILM BOX OFFICE 6" tvg-logo="http://play.iptvcity.tk/logolar/BeonLogolar/film_box_office_Logo/6.png" group-title=" TR ➤SiNEMA SALON",TR➾ FILM BOX OFFICE 6
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87928
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FILM BOX OFFICE 7" tvg-logo="http://play.iptvcity.tk/logolar/BeonLogolar/film_box_office_Logo/7.png" group-title=" TR ➤SiNEMA SALON",TR➾ FILM BOX OFFICE 7
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87929
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FILM BOX OFFICE 8" tvg-logo="http://play.iptvcity.tk/logolar/BeonLogolar/film_box_office_Logo/8.png" group-title=" TR ➤SiNEMA SALON",TR➾ FILM BOX OFFICE 8
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87930
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FILM BOX OFFICE 9" tvg-logo="http://play.iptvcity.tk/logolar/BeonLogolar/film_box_office_Logo/9.png" group-title=" TR ➤SiNEMA SALON",TR➾ FILM BOX OFFICE 9
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87931
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FILM BOX OFFICE 10" tvg-logo="http://play.iptvcity.tk/logolar/BeonLogolar/film_box_office_Logo/10.png" group-title=" TR ➤SiNEMA SALON",TR➾ FILM BOX OFFICE 10
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87932
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FILM BOX OFFICE 11" tvg-logo="http://play.iptvcity.tk/logolar/BeonLogolar/film_box_office_Logo/11.png" group-title=" TR ➤SiNEMA SALON",TR➾ FILM BOX OFFICE 11
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87933
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FILM BOX OFFICE 12" tvg-logo="http://play.iptvcity.tk/logolar/BeonLogolar/film_box_office_Logo/12.png" group-title=" TR ➤SiNEMA SALON",TR➾ FILM BOX OFFICE 12
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87934
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FILM BOX OFFICE 13" tvg-logo="http://play.iptvcity.tk/logolar/BeonLogolar/film_box_office_Logo/13.png" group-title=" TR ➤SiNEMA SALON",TR➾ FILM BOX OFFICE 13
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87935
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FILM BOX OFFICE 14" tvg-logo="http://play.iptvcity.tk/logolar/BeonLogolar/film_box_office_Logo/14.png" group-title=" TR ➤SiNEMA SALON",TR➾ FILM BOX OFFICE 14
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87936
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FILM BOX OFFICE 15" tvg-logo="http://play.iptvcity.tk/logolar/BeonLogolar/film_box_office_Logo/15.png" group-title=" TR ➤SiNEMA SALON",TR➾ FILM BOX OFFICE 15
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87937
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FILM BOX OFFICE 16" tvg-logo="http://play.iptvcity.tk/logolar/BeonLogolar/film_box_office_Logo/16.png" group-title=" TR ➤SiNEMA SALON",TR➾ FILM BOX OFFICE 16
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87938
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FILM BOX OFFICE 17" tvg-logo="http://play.iptvcity.tk/logolar/BeonLogolar/film_box_office_Logo/17.png" group-title=" TR ➤SiNEMA SALON",TR➾ FILM BOX OFFICE 17
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87939
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FILM BOX OFFICE 18" tvg-logo="http://play.iptvcity.tk/logolar/BeonLogolar/film_box_office_Logo/18.png" group-title=" TR ➤SiNEMA SALON",TR➾ FILM BOX OFFICE 18
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87940
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FILM BOX OFFICE 19" tvg-logo="http://play.iptvcity.tk/logolar/BeonLogolar/film_box_office_Logo/19.png" group-title=" TR ➤SiNEMA SALON",TR➾ FILM BOX OFFICE 19
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87941
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FILM BOX OFFICE 20" tvg-logo="http://play.iptvcity.tk/logolar/BeonLogolar/film_box_office_Logo/20.png" group-title=" TR ➤SiNEMA SALON",TR➾ FILM BOX OFFICE 20
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87942
+#EXTINF:-1 tvg-id="" tvg-name="TR:  ACTIE 1 HD" tvg-logo="https://i.hizliresim.com/623oc1w.jpg" group-title=" TR ➤SiNEMA SALON",TR:  ACTIE 1 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87943
+#EXTINF:-1 tvg-id="" tvg-name="TR:  HORROR 1 HD" tvg-logo="https://i.hizliresim.com/623oc1w.jpg" group-title=" TR ➤SiNEMA SALON",TR:  HORROR 1 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87944
+#EXTINF:-1 tvg-id="" tvg-name="TR:  MIX 1 HD" tvg-logo="https://i.hizliresim.com/623oc1w.jpg" group-title=" TR ➤SiNEMA SALON",TR:  MIX 1 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87945
+#EXTINF:-1 tvg-id="" tvg-name="TR:  BILIMKURGU 1 HD" tvg-logo="https://i.hizliresim.com/623oc1w.jpg" group-title=" TR ➤SiNEMA SALON",TR:  BILIMKURGU 1 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87946
+#EXTINF:-1 tvg-id="" tvg-name="TR:  VIZYON 1 HD" tvg-logo="https://i.hizliresim.com/623oc1w.jpg" group-title=" TR ➤SiNEMA SALON",TR:  VIZYON 1 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87947
+#EXTINF:-1 tvg-id="" tvg-name="TR:  VIZYON 2  HD" tvg-logo="https://i.hizliresim.com/623oc1w.jpg" group-title=" TR ➤SiNEMA SALON",TR:  VIZYON 2  HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87948
+#EXTINF:-1 tvg-id="" tvg-name="TR:  SINEMA TURK 1 HD" tvg-logo="https://i.hizliresim.com/623oc1w.jpg" group-title=" TR ➤SiNEMA SALON",TR:  SINEMA TURK 1 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87949
+#EXTINF:-1 tvg-id="" tvg-name="TR:  SINEMA TURK  2 HD" tvg-logo="https://i.hizliresim.com/623oc1w.jpg" group-title=" TR ➤SiNEMA SALON",TR:  SINEMA TURK  2 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87950
+#EXTINF:-1 tvg-id="" tvg-name="TR:  DRAMA HD" tvg-logo="https://i.hizliresim.com/623oc1w.jpg" group-title=" TR ➤SiNEMA SALON",TR:  DRAMA HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87951
+#EXTINF:-1 tvg-id="" tvg-name="TR:  PREMIERE" tvg-logo="https://i.hizliresim.com/623oc1w.jpg" group-title=" TR ➤SiNEMA SALON",TR:  PREMIERE
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87952
+#EXTINF:-1 tvg-id="" tvg-name="TR: FX HD+" tvg-logo="https://i.hizliresim.com/623oc1w.jpg" group-title=" TR ➤SiNEMA SALON",TR: FX HD+
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87953
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEVIZYON TURK 1" tvg-logo="https://i.hizliresim.com/623oc1w.jpg" group-title=" TR ➤SiNEMA SALON",TR: SINEVIZYON TURK 1
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87954
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEVIZYON TURK 2" tvg-logo="https://i.hizliresim.com/623oc1w.jpg" group-title=" TR ➤SiNEMA SALON",TR: SINEVIZYON TURK 2
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87955
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEVIZYON TURK 3" tvg-logo="https://i.hizliresim.com/623oc1w.jpg" group-title=" TR ➤SiNEMA SALON",TR: SINEVIZYON TURK 3
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87956
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEVIZYON TURK 4" tvg-logo="https://i.hizliresim.com/623oc1w.jpg" group-title=" TR ➤SiNEMA SALON",TR: SINEVIZYON TURK 4
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87957
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEVIZYON TURK 5" tvg-logo="https://i.hizliresim.com/623oc1w.jpg" group-title=" TR ➤SiNEMA SALON",TR: SINEVIZYON TURK 5
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87958
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEVIZYON TURK 6" tvg-logo="https://i.hizliresim.com/623oc1w.jpg" group-title=" TR ➤SiNEMA SALON",TR: SINEVIZYON TURK 6
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87959
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEVIZYON TURK 7" tvg-logo="https://i.hizliresim.com/623oc1w.jpg" group-title=" TR ➤SiNEMA SALON",TR: SINEVIZYON TURK 7
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87960
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEVIZYON TURK 8" tvg-logo="https://i.hizliresim.com/623oc1w.jpg" group-title=" TR ➤SiNEMA SALON",TR: SINEVIZYON TURK 8
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87961
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEVIZYON TURK 9" tvg-logo="https://i.hizliresim.com/623oc1w.jpg" group-title=" TR ➤SiNEMA SALON",TR: SINEVIZYON TURK 9
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87962
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEVIZYON TURK 10" tvg-logo="https://i.hizliresim.com/623oc1w.jpg" group-title=" TR ➤SiNEMA SALON",TR: SINEVIZYON TURK 10
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87963
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ SALON MIX 1 HD" tvg-logo="http://play.iptvcity.tk/logolar/BeonLogolar/salonhd/salon1hd.png" group-title=" TR ➤SiNEMA SALON",TR➾ SALON MIX 1 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87964
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ SALON MIX 2 HD" tvg-logo="http://play.iptvcity.tk/logolar/BeonLogolar/salonhd/salon2hd.png" group-title=" TR ➤SiNEMA SALON",TR➾ SALON MIX 2 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87965
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ SALON MIX 3 HD" tvg-logo="http://play.iptvcity.tk/logolar/BeonLogolar/salonhd/salon3hd.png" group-title=" TR ➤SiNEMA SALON",TR➾ SALON MIX 3 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87966
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ SALON MIX 4 HD" tvg-logo="http://play.iptvcity.tk/logolar/BeonLogolar/salonhd/salon4hd.png" group-title=" TR ➤SiNEMA SALON",TR➾ SALON MIX 4 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87967
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ SALON MIX 5 HD" tvg-logo="http://play.iptvcity.tk/logolar/BeonLogolar/salonhd/salon5hd.png" group-title=" TR ➤SiNEMA SALON",TR➾ SALON MIX 5 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87968
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ SALON MIX  6 HD" tvg-logo="http://play.iptvcity.tk/logolar/BeonLogolar/salonhd/salon6hd.png" group-title=" TR ➤SiNEMA SALON",TR➾ SALON MIX  6 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87969
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ SALON MIX 7 HD" tvg-logo="http://play.iptvcity.tk/logolar/BeonLogolar/salonhd/salon7hd.png" group-title=" TR ➤SiNEMA SALON",TR➾ SALON MIX 7 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87970
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ SALON MIX 8 HD" tvg-logo="http://play.iptvcity.tk/logolar/BeonLogolar/salonhd/salon8hd.png" group-title=" TR ➤SiNEMA SALON",TR➾ SALON MIX 8 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87971
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ SALON MIX 9 HD" tvg-logo="http://play.iptvcity.tk/logolar/BeonLogolar/salonhd/salon9hd.png" group-title=" TR ➤SiNEMA SALON",TR➾ SALON MIX 9 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87972
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ SALON MIX 10 HD" tvg-logo="http://play.iptvcity.tk/logolar/BeonLogolar/salonhd/salon10hd.png" group-title=" TR ➤SiNEMA SALON",TR➾ SALON MIX 10 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/87973
+#EXTINF:-1 tvg-id="" tvg-name="AT: ORF 1 HD" tvg-logo="" group-title=" AU➤AUSTRIA ",AT: ORF 1 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/80357
+#EXTINF:-1 tvg-id="" tvg-name="AT: ORF 1 HD Ersatz" tvg-logo="" group-title=" AU➤AUSTRIA ",AT: ORF 1 HD Ersatz
+http://217.79.184.82:8080/ncm3996ydk/ncm11/80358
+#EXTINF:-1 tvg-id="" tvg-name="AT: ORF EINS HD" tvg-logo="" group-title=" AU➤AUSTRIA ",AT: ORF EINS HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/80359
+#EXTINF:-1 tvg-id="" tvg-name="AT: ORF 2 HD" tvg-logo="" group-title=" AU➤AUSTRIA ",AT: ORF 2 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/80360
+#EXTINF:-1 tvg-id="" tvg-name="AT: ORF 2 Wien HD" tvg-logo="" group-title=" AU➤AUSTRIA ",AT: ORF 2 Wien HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/80361
+#EXTINF:-1 tvg-id="" tvg-name="AT: ORF 2 Ersatz" tvg-logo="" group-title=" AU➤AUSTRIA ",AT: ORF 2 Ersatz
+http://217.79.184.82:8080/ncm3996ydk/ncm11/80362
+#EXTINF:-1 tvg-id="" tvg-name="AT: ORF 3 HD" tvg-logo="" group-title=" AU➤AUSTRIA ",AT: ORF 3 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/80363
+#EXTINF:-1 tvg-id="" tvg-name="AT: ORF 3 Ersatz" tvg-logo="" group-title=" AU➤AUSTRIA ",AT: ORF 3 Ersatz
+http://217.79.184.82:8080/ncm3996ydk/ncm11/80364
+#EXTINF:-1 tvg-id="" tvg-name="AT: ATV HD" tvg-logo="" group-title=" AU➤AUSTRIA ",AT: ATV HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/80365
+#EXTINF:-1 tvg-id="" tvg-name="AT: ATV2" tvg-logo="" group-title=" AU➤AUSTRIA ",AT: ATV2
+http://217.79.184.82:8080/ncm3996ydk/ncm11/80366
+#EXTINF:-1 tvg-id="" tvg-name="AT: SCHAU TV HD" tvg-logo="" group-title=" AU➤AUSTRIA ",AT: SCHAU TV HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/80367
+#EXTINF:-1 tvg-id="" tvg-name="AT: R9 Österreich HD" tvg-logo="" group-title=" AU➤AUSTRIA ",AT: R9 Österreich HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/80368
+#EXTINF:-1 tvg-id="" tvg-name="AT: SERVUS TV  HD" tvg-logo="" group-title=" AU➤AUSTRIA ",AT: SERVUS TV  HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/80369
+#EXTINF:-1 tvg-id="" tvg-name="AT: oe24 TV HD" tvg-logo="" group-title=" AU➤AUSTRIA ",AT: oe24 TV HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/80370
+#EXTINF:-1 tvg-id="" tvg-name="AT: VOX Austria" tvg-logo="" group-title=" AU➤AUSTRIA ",AT: VOX Austria
+http://217.79.184.82:8080/ncm3996ydk/ncm11/80371
+#EXTINF:-1 tvg-id="" tvg-name="AT: KABEL EINS DOKU" tvg-logo="" group-title=" AU➤AUSTRIA ",AT: KABEL EINS DOKU
+http://217.79.184.82:8080/ncm3996ydk/ncm11/80372
+#EXTINF:-1 tvg-id="" tvg-name="AT: N24 DOKU Austria" tvg-logo="" group-title=" AU➤AUSTRIA ",AT: N24 DOKU Austria
+http://217.79.184.82:8080/ncm3996ydk/ncm11/80373
+#EXTINF:-1 tvg-id="" tvg-name="AT: Sat 1 Austria" tvg-logo="" group-title=" AU➤AUSTRIA ",AT: Sat 1 Austria
+http://217.79.184.82:8080/ncm3996ydk/ncm11/80374
+#EXTINF:-1 tvg-id="" tvg-name="DE: SAT.1 Gold Austria" tvg-logo="" group-title=" AU➤AUSTRIA ",DE: SAT.1 Gold Austria
+http://217.79.184.82:8080/ncm3996ydk/ncm11/80375
+#EXTINF:-1 tvg-id="" tvg-name="AT: SIXX AUSTRIA" tvg-logo="" group-title=" AU➤AUSTRIA ",AT: SIXX AUSTRIA
+http://217.79.184.82:8080/ncm3996ydk/ncm11/80376
+#EXTINF:-1 tvg-id="" tvg-name="AT: PROSIEBEN" tvg-logo="" group-title=" AU➤AUSTRIA ",AT: PROSIEBEN
+http://217.79.184.82:8080/ncm3996ydk/ncm11/80377
+#EXTINF:-1 tvg-id="" tvg-name="AT: PRO7 MAXX" tvg-logo="" group-title=" AU➤AUSTRIA ",AT: PRO7 MAXX
+http://217.79.184.82:8080/ncm3996ydk/ncm11/80378
+#EXTINF:-1 tvg-id="" tvg-name="AT: RTL" tvg-logo="" group-title=" AU➤AUSTRIA ",AT: RTL
+http://217.79.184.82:8080/ncm3996ydk/ncm11/80379
+#EXTINF:-1 tvg-id="" tvg-name="AT: RTL 2" tvg-logo="" group-title=" AU➤AUSTRIA ",AT: RTL 2
+http://217.79.184.82:8080/ncm3996ydk/ncm11/80380
+#EXTINF:-1 tvg-id="" tvg-name="AT: DMAX" tvg-logo="" group-title=" AU➤AUSTRIA ",AT: DMAX
+http://217.79.184.82:8080/ncm3996ydk/ncm11/80381
+#EXTINF:-1 tvg-id="" tvg-name="AT: KRONE TV" tvg-logo="" group-title=" AU➤AUSTRIA ",AT: KRONE TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/80382
+#EXTINF:-1 tvg-id="" tvg-name="AT: S. Sport Austria 5 HD" tvg-logo="" group-title=" AU➤AUSTRIA ",AT: S. Sport Austria 5 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/80383
+#EXTINF:-1 tvg-id="" tvg-name="AT: S. Sport Austria 6 HD" tvg-logo="" group-title=" AU➤AUSTRIA ",AT: S. Sport Austria 6 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/80384
+#EXTINF:-1 tvg-id="" tvg-name="AT: PULS 24" tvg-logo="" group-title=" AU➤AUSTRIA ",AT: PULS 24
+http://217.79.184.82:8080/ncm3996ydk/ncm11/80385
+#EXTINF:-1 tvg-id="" tvg-name="AT: PULS 4" tvg-logo="" group-title=" AU➤AUSTRIA ",AT: PULS 4
+http://217.79.184.82:8080/ncm3996ydk/ncm11/80386
+#EXTINF:-1 tvg-id="" tvg-name="NO: NRK 1 HD" tvg-logo="" group-title=" NR➤NORWAY",NO: NRK 1 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81467
+#EXTINF:-1 tvg-id="" tvg-name="NO: NRK 2 HD" tvg-logo="" group-title=" NR➤NORWAY",NO: NRK 2 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81468
+#EXTINF:-1 tvg-id="" tvg-name="NO: NRK 3 HD" tvg-logo="" group-title=" NR➤NORWAY",NO: NRK 3 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81469
+#EXTINF:-1 tvg-id="" tvg-name="NO: TV2 NORGE HD" tvg-logo="" group-title=" NR➤NORWAY",NO: TV2 NORGE HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81470
+#EXTINF:-1 tvg-id="" tvg-name="NO: TV2 NORGE HD BACKUP" tvg-logo="" group-title=" NR➤NORWAY",NO: TV2 NORGE HD BACKUP
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81471
+#EXTINF:-1 tvg-id="" tvg-name="NO: TV3 NORGE HD" tvg-logo="" group-title=" NR➤NORWAY",NO: TV3 NORGE HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81472
+#EXTINF:-1 tvg-id="" tvg-name="NO: TV3+ NORGE" tvg-logo="" group-title=" NR➤NORWAY",NO: TV3+ NORGE
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81473
+#EXTINF:-1 tvg-id="" tvg-name="NO: TV NORGE HD" tvg-logo="" group-title=" NR➤NORWAY",NO: TV NORGE HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81474
+#EXTINF:-1 tvg-id="" tvg-name="NO: VOX NORWAY HD" tvg-logo="" group-title=" NR➤NORWAY",NO: VOX NORWAY HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81475
+#EXTINF:-1 tvg-id="" tvg-name="NO: TV 2 NYHETSKANALEN HD" tvg-logo="" group-title=" NR➤NORWAY",NO: TV 2 NYHETSKANALEN HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81476
+#EXTINF:-1 tvg-id="" tvg-name="NO: TV2 ZEBRA HD" tvg-logo="" group-title=" NR➤NORWAY",NO: TV2 ZEBRA HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81477
+#EXTINF:-1 tvg-id="" tvg-name="NO: VIASAT 4 HD" tvg-logo="" group-title=" NR➤NORWAY",NO: VIASAT 4 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81478
+#EXTINF:-1 tvg-id="" tvg-name="NO: FEM HD" tvg-logo="" group-title=" NR➤NORWAY",NO: FEM HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81479
+#EXTINF:-1 tvg-id="" tvg-name="NO: TV6 NORGE HD" tvg-logo="" group-title=" NR➤NORWAY",NO: TV6 NORGE HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81480
+#EXTINF:-1 tvg-id="" tvg-name="NO: MAX NORGE HD" tvg-logo="" group-title=" NR➤NORWAY",NO: MAX NORGE HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81481
+#EXTINF:-1 tvg-id="" tvg-name="NO: TLC HD" tvg-logo="" group-title=" NR➤NORWAY",NO: TLC HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81482
+#EXTINF:-1 tvg-id="" tvg-name="NO: VGTV HD" tvg-logo="" group-title=" NR➤NORWAY",NO: VGTV HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81483
+#EXTINF:-1 tvg-id="" tvg-name="NO: MATKANALEN HD" tvg-logo="" group-title=" NR➤NORWAY",NO: MATKANALEN HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81484
+#EXTINF:-1 tvg-id="" tvg-name="NO: KANAL 10 NORGE HD" tvg-logo="" group-title=" NR➤NORWAY",NO: KANAL 10 NORGE HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81485
+#EXTINF:-1 tvg-id="" tvg-name="NO: NAT GEO HD (N)" tvg-logo="" group-title=" NR➤NORWAY",NO: NAT GEO HD (N)
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81486
+#EXTINF:-1 tvg-id="" tvg-name="NO: DISCOVERY WORLD HD" tvg-logo="" group-title=" NR➤NORWAY",NO: DISCOVERY WORLD HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81487
+#EXTINF:-1 tvg-id="" tvg-name="NO: DISCOVERY CHANNEL NORWAY HD" tvg-logo="" group-title=" NR➤NORWAY",NO: DISCOVERY CHANNEL NORWAY HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81488
+#EXTINF:-1 tvg-id="" tvg-name="NO: HOPE CHANNEL NORGE HD" tvg-logo="" group-title=" NR➤NORWAY",NO: HOPE CHANNEL NORGE HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81489
+#EXTINF:-1 tvg-id="" tvg-name="NO: VISJON NORGE HD" tvg-logo="" group-title=" NR➤NORWAY",NO: VISJON NORGE HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81490
+#EXTINF:-1 tvg-id="" tvg-name="NO: EUROSPORT NORGE HD BACKUP" tvg-logo="" group-title=" NR➤NORWAY",NO: EUROSPORT NORGE HD BACKUP
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81491
+#EXTINF:-1 tvg-id="" tvg-name="NO: EUROSPORT NORGE HD" tvg-logo="" group-title=" NR➤NORWAY",NO: EUROSPORT NORGE HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81492
+#EXTINF:-1 tvg-id="" tvg-name="NO: HEIM HD" tvg-logo="" group-title=" NR➤NORWAY",NO: HEIM HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81493
+#EXTINF:-1 tvg-id="" tvg-name="NO: NICKELODEON HD" tvg-logo="" group-title=" NR➤NORWAY",NO: NICKELODEON HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81494
+#EXTINF:-1 tvg-id="" tvg-name="NO: DISNEY JUNIOR" tvg-logo="" group-title=" NR➤NORWAY",NO: DISNEY JUNIOR
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81495
+#EXTINF:-1 tvg-id="" tvg-name="NO: NICKTOONS HD" tvg-logo="" group-title=" NR➤NORWAY",NO: NICKTOONS HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81496
+#EXTINF:-1 tvg-id="" tvg-name="NO: DISNEY CHANNEL HD" tvg-logo="" group-title=" NR➤NORWAY",NO: DISNEY CHANNEL HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81497
+#EXTINF:-1 tvg-id="" tvg-name="NO: CARTOON NETWORK" tvg-logo="" group-title=" NR➤NORWAY",NO: CARTOON NETWORK
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81498
+#EXTINF:-1 tvg-id="" tvg-name="NO: VIASAT FILM ACTION HD" tvg-logo="" group-title=" NR➤NORWAY",NO: VIASAT FILM ACTION HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81499
+#EXTINF:-1 tvg-id="" tvg-name="NO: VIASAT FILM HITS HD" tvg-logo="" group-title=" NR➤NORWAY",NO: VIASAT FILM HITS HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81500
+#EXTINF:-1 tvg-id="" tvg-name="NO: VIASAT FILM PREMIERE HD" tvg-logo="" group-title=" NR➤NORWAY",NO: VIASAT FILM PREMIERE HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81501
+#EXTINF:-1 tvg-id="" tvg-name="NO: VIASAT HISTORY HD" tvg-logo="" group-title=" NR➤NORWAY",NO: VIASAT HISTORY HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81502
+#EXTINF:-1 tvg-id="" tvg-name="NO: VIASAT VINTER HD" tvg-logo="" group-title=" NR➤NORWAY",NO: VIASAT VINTER HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81503
+#EXTINF:-1 tvg-id="" tvg-name="NO: V FILM SERIES HD" tvg-logo="" group-title=" NR➤NORWAY",NO: V FILM SERIES HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81504
+#EXTINF:-1 tvg-id="" tvg-name="NO: VIASAT NATURE HD" tvg-logo="" group-title=" NR➤NORWAY",NO: VIASAT NATURE HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81505
+#EXTINF:-1 tvg-id="" tvg-name="NO: VIASAT SPORT PREMIUM HD" tvg-logo="" group-title=" NR➤NORWAY",NO: VIASAT SPORT PREMIUM HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81506
+#EXTINF:-1 tvg-id="" tvg-name="NO: MTV VIIHDDE HD" tvg-logo="" group-title=" NR➤NORWAY",NO: MTV VIIHDDE HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81507
+#EXTINF:-1 tvg-id="" tvg-name="NO: HITS HD" tvg-logo="" group-title=" NR➤NORWAY",NO: HITS HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81508
+#EXTINF:-1 tvg-id="" tvg-name="DK: DR 1 HD" tvg-logo="" group-title=" NR➤NORWAY",DK: DR 1 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81509
+#EXTINF:-1 tvg-id="" tvg-name="NO: MTV AITIO HD" tvg-logo="" group-title=" NR➤NORWAY",NO: MTV AITIO HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81510
+#EXTINF:-1 tvg-id="" tvg-name="NO: BOOMERANG HD" tvg-logo="" group-title=" NR➤NORWAY",NO: BOOMERANG HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81511
+#EXTINF:-1 tvg-id="" tvg-name="NO: EUROSPORT 1 HD" tvg-logo="" group-title=" NR➤NORWAY",NO: EUROSPORT 1 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81512
+#EXTINF:-1 tvg-id="" tvg-name="NO: TV 2 LIVSTILL HD" tvg-logo="" group-title=" NR➤NORWAY",NO: TV 2 LIVSTILL HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81513
+#EXTINF:-1 tvg-id="" tvg-name="NO: TV 2 SPORT 1 HD" tvg-logo="" group-title=" NR➤NORWAY",NO: TV 2 SPORT 1 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81514
+#EXTINF:-1 tvg-id="" tvg-name="NO: TV 2 SPORT 2 HD" tvg-logo="" group-title=" NR➤NORWAY",NO: TV 2 SPORT 2 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81515
+#EXTINF:-1 tvg-id="" tvg-name="NO: TV2 SPORT PREMIUM 1 HD" tvg-logo="" group-title=" NR➤NORWAY",NO: TV2 SPORT PREMIUM 1 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81516
+#EXTINF:-1 tvg-id="" tvg-name="NO: TV2 SPORT PREMIUM 2 HD" tvg-logo="" group-title=" NR➤NORWAY",NO: TV2 SPORT PREMIUM 2 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81517
+#EXTINF:-1 tvg-id="" tvg-name="HR: HRT 1 HD" tvg-logo="" group-title="CR➤CROATIA",HR: HRT 1 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81836
+#EXTINF:-1 tvg-id="" tvg-name="HR: HRT 2 FHD" tvg-logo="" group-title="CR➤CROATIA",HR: HRT 2 FHD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81837
+#EXTINF:-1 tvg-id="" tvg-name="HR: HRT 3 HD" tvg-logo="" group-title="CR➤CROATIA",HR: HRT 3 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81838
+#EXTINF:-1 tvg-id="" tvg-name="HR: HRT 4 HD" tvg-logo="" group-title="CR➤CROATIA",HR: HRT 4 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81839
+#EXTINF:-1 tvg-id="" tvg-name="HR: HRT Int." tvg-logo="" group-title="CR➤CROATIA",HR: HRT Int.
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81840
+#EXTINF:-1 tvg-id="" tvg-name="HR: Nova TV HD" tvg-logo="" group-title="CR➤CROATIA",HR: Nova TV HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81841
+#EXTINF:-1 tvg-id="" tvg-name="HR: Doma TV HD" tvg-logo="" group-title="CR➤CROATIA",HR: Doma TV HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81842
+#EXTINF:-1 tvg-id="" tvg-name="HR: RTL" tvg-logo="" group-title="CR➤CROATIA",HR: RTL
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81843
+#EXTINF:-1 tvg-id="" tvg-name="HR: RTL 2" tvg-logo="" group-title="CR➤CROATIA",HR: RTL 2
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81844
+#EXTINF:-1 tvg-id="" tvg-name="HR: RTL Adria" tvg-logo="" group-title="CR➤CROATIA",HR: RTL Adria
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81845
+#EXTINF:-1 tvg-id="" tvg-name="HR: RTL Crime" tvg-logo="" group-title="CR➤CROATIA",HR: RTL Crime
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81846
+#EXTINF:-1 tvg-id="" tvg-name="HR: RTL Living" tvg-logo="" group-title="CR➤CROATIA",HR: RTL Living
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81847
+#EXTINF:-1 tvg-id="" tvg-name="HR: RTL Passion" tvg-logo="" group-title="CR➤CROATIA",HR: RTL Passion
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81848
+#EXTINF:-1 tvg-id="" tvg-name="HR: N1 Hr" tvg-logo="" group-title="CR➤CROATIA",HR: N1 Hr
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81849
+#EXTINF:-1 tvg-id="" tvg-name="HR: Z1" tvg-logo="" group-title="CR➤CROATIA",HR: Z1
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81850
+#EXTINF:-1 tvg-id="" tvg-name="HR: Laudato TV" tvg-logo="" group-title="CR➤CROATIA",HR: Laudato TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81851
+#EXTINF:-1 tvg-id="" tvg-name="HR: PINK PAKET ✦●✦" tvg-logo="" group-title="CR➤CROATIA",HR: PINK PAKET ✦●✦
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81852
+#EXTINF:-1 tvg-id="" tvg-name="HR: Pink BH L" tvg-logo="" group-title="CR➤CROATIA",HR: Pink BH L
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81853
+#EXTINF:-1 tvg-id="" tvg-name="HR: PINK" tvg-logo="" group-title="CR➤CROATIA",HR: PINK
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81854
+#EXTINF:-1 tvg-id="" tvg-name="HR: pink 2 red" tvg-logo="" group-title="CR➤CROATIA",HR: pink 2 red
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81855
+#EXTINF:-1 tvg-id="" tvg-name="HR: Pink 3 Info" tvg-logo="" group-title="CR➤CROATIA",HR: Pink 3 Info
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81856
+#EXTINF:-1 tvg-id="" tvg-name="HR: Pink Action" tvg-logo="" group-title="CR➤CROATIA",HR: Pink Action
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81857
+#EXTINF:-1 tvg-id="" tvg-name="HR: Pink Comedy" tvg-logo="" group-title="CR➤CROATIA",HR: Pink Comedy
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81858
+#EXTINF:-1 tvg-id="" tvg-name="HR: Pink Crime & Mystery" tvg-logo="" group-title="CR➤CROATIA",HR: Pink Crime & Mystery
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81859
+#EXTINF:-1 tvg-id="" tvg-name="HR: Pink Film" tvg-logo="" group-title="CR➤CROATIA",HR: Pink Film
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81860
+#EXTINF:-1 tvg-id="" tvg-name="HR: Pink Folk 1 hd" tvg-logo="" group-title="CR➤CROATIA",HR: Pink Folk 1 hd
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81861
+#EXTINF:-1 tvg-id="" tvg-name="HR: Pink Folk 2" tvg-logo="" group-title="CR➤CROATIA",HR: Pink Folk 2
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81862
+#EXTINF:-1 tvg-id="" tvg-name="HR: Pink Horror" tvg-logo="" group-title="CR➤CROATIA",HR: Pink Horror
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81863
+#EXTINF:-1 tvg-id="" tvg-name="HR: Pink Movies" tvg-logo="" group-title="CR➤CROATIA",HR: Pink Movies
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81864
+#EXTINF:-1 tvg-id="" tvg-name="HR: Pink Music 1" tvg-logo="" group-title="CR➤CROATIA",HR: Pink Music 1
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81865
+#EXTINF:-1 tvg-id="" tvg-name="HR: Pink Music 2" tvg-logo="" group-title="CR➤CROATIA",HR: Pink Music 2
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81866
+#EXTINF:-1 tvg-id="" tvg-name="HR: Pink Plus" tvg-logo="" group-title="CR➤CROATIA",HR: Pink Plus
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81867
+#EXTINF:-1 tvg-id="" tvg-name="HR: Pink Premium" tvg-logo="" group-title="CR➤CROATIA",HR: Pink Premium
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81868
+#EXTINF:-1 tvg-id="" tvg-name="HR: Pink Reality" tvg-logo="" group-title="CR➤CROATIA",HR: Pink Reality
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81869
+#EXTINF:-1 tvg-id="" tvg-name="HR: Pink Romance" tvg-logo="" group-title="CR➤CROATIA",HR: Pink Romance
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81870
+#EXTINF:-1 tvg-id="" tvg-name="HR: Pink Sci Fi & Fantasy" tvg-logo="" group-title="CR➤CROATIA",HR: Pink Sci Fi & Fantasy
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81871
+#EXTINF:-1 tvg-id="" tvg-name="HR: Pink Serije" tvg-logo="" group-title="CR➤CROATIA",HR: Pink Serije
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81872
+#EXTINF:-1 tvg-id="" tvg-name="HR: PINK SOAP" tvg-logo="" group-title="CR➤CROATIA",HR: PINK SOAP
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81873
+#EXTINF:-1 tvg-id="" tvg-name="HR: Pink Thriler SD" tvg-logo="" group-title="CR➤CROATIA",HR: Pink Thriler SD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81874
+#EXTINF:-1 tvg-id="" tvg-name="HR: Pink Classic" tvg-logo="" group-title="CR➤CROATIA",HR: Pink Classic
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81875
+#EXTINF:-1 tvg-id="" tvg-name="HR: Pink Kuvar" tvg-logo="" group-title="CR➤CROATIA",HR: Pink Kuvar
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81876
+#EXTINF:-1 tvg-id="" tvg-name="HR: Pink LOL" tvg-logo="" group-title="CR➤CROATIA",HR: Pink LOL
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81877
+#EXTINF:-1 tvg-id="" tvg-name="HR: Pink World" tvg-logo="" group-title="CR➤CROATIA",HR: Pink World
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81878
+#EXTINF:-1 tvg-id="" tvg-name="HR: Pink Pedia" tvg-logo="" group-title="CR➤CROATIA",HR: Pink Pedia
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81879
+#EXTINF:-1 tvg-id="" tvg-name="HR: Pink Western" tvg-logo="" group-title="CR➤CROATIA",HR: Pink Western
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81880
+#EXTINF:-1 tvg-id="" tvg-name="HR: National Geographic" tvg-logo="" group-title="CR➤CROATIA",HR: National Geographic
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81883
+#EXTINF:-1 tvg-id="" tvg-name="HR: Animal Planet" tvg-logo="" group-title="CR➤CROATIA",HR: Animal Planet
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81884
+#EXTINF:-1 tvg-id="" tvg-name="HR: Nat Geo Wild" tvg-logo="" group-title="CR➤CROATIA",HR: Nat Geo Wild
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81885
+#EXTINF:-1 tvg-id="" tvg-name="HR: Discovery Channel" tvg-logo="" group-title="CR➤CROATIA",HR: Discovery Channel
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81886
+#EXTINF:-1 tvg-id="" tvg-name="HR: Discovery ID" tvg-logo="" group-title="CR➤CROATIA",HR: Discovery ID
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81887
+#EXTINF:-1 tvg-id="" tvg-name="HR: Crime & Investigation" tvg-logo="" group-title="CR➤CROATIA",HR: Crime & Investigation
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81888
+#EXTINF:-1 tvg-id="" tvg-name="HR: Viasat Explore" tvg-logo="" group-title="CR➤CROATIA",HR: Viasat Explore
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81889
+#EXTINF:-1 tvg-id="" tvg-name="HR: Viasat History" tvg-logo="" group-title="CR➤CROATIA",HR: Viasat History
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81890
+#EXTINF:-1 tvg-id="" tvg-name="HR: Viasat Nature" tvg-logo="" group-title="CR➤CROATIA",HR: Viasat Nature
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81891
+#EXTINF:-1 tvg-id="" tvg-name="HR: Travel Channel HD" tvg-logo="" group-title="CR➤CROATIA",HR: Travel Channel HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81892
+#EXTINF:-1 tvg-id="" tvg-name="HR: History Channel" tvg-logo="" group-title="CR➤CROATIA",HR: History Channel
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81893
+#EXTINF:-1 tvg-id="" tvg-name="HR: History Channel 2" tvg-logo="" group-title="CR➤CROATIA",HR: History Channel 2
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81894
+#EXTINF:-1 tvg-id="" tvg-name="HR: ✦●✦ DJECIJI KANALI ✦●✦" tvg-logo="" group-title="CR➤CROATIA",HR: ✦●✦ DJECIJI KANALI ✦●✦
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81895
+#EXTINF:-1 tvg-id="" tvg-name="HR: MINIMAX" tvg-logo="" group-title="CR➤CROATIA",HR: MINIMAX
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81896
+#EXTINF:-1 tvg-id="" tvg-name="HR: Nickelodeon" tvg-logo="" group-title="CR➤CROATIA",HR: Nickelodeon
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81897
+#EXTINF:-1 tvg-id="" tvg-name="HR: Nick Jr. sr" tvg-logo="" group-title="CR➤CROATIA",HR: Nick Jr. sr
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81898
+#EXTINF:-1 tvg-id="" tvg-name="HR: Hayatovci" tvg-logo="" group-title="CR➤CROATIA",HR: Hayatovci
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81899
+#EXTINF:-1 tvg-id="" tvg-name="HR: Mini TV" tvg-logo="" group-title="CR➤CROATIA",HR: Mini TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81900
+#EXTINF:-1 tvg-id="" tvg-name="HR: Pikaboo" tvg-logo="" group-title="CR➤CROATIA",HR: Pikaboo
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81901
+#EXTINF:-1 tvg-id="" tvg-name="HR: Baby TV" tvg-logo="" group-title="CR➤CROATIA",HR: Baby TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81902
+#EXTINF:-1 tvg-id="" tvg-name="HR: RTL KOCKICA" tvg-logo="" group-title="CR➤CROATIA",HR: RTL KOCKICA
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81903
+#EXTINF:-1 tvg-id="" tvg-name="HR: BABY TV" tvg-logo="" group-title="CR➤CROATIA",HR: BABY TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81904
+#EXTINF:-1 tvg-id="" tvg-name="HR: DUCK TV" tvg-logo="" group-title="CR➤CROATIA",HR: DUCK TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81905
+#EXTINF:-1 tvg-id="" tvg-name="HR: ==== MUZICKI ====" tvg-logo="" group-title="CR➤CROATIA",HR: ==== MUZICKI ====
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81906
+#EXTINF:-1 tvg-id="" tvg-name="HR: Balkanika TV" tvg-logo="" group-title="CR➤CROATIA",HR: Balkanika TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81907
+#EXTINF:-1 tvg-id="" tvg-name="HR: BN Music" tvg-logo="" group-title="CR➤CROATIA",HR: BN Music
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81908
+#EXTINF:-1 tvg-id="" tvg-name="HR: Grand" tvg-logo="" group-title="CR➤CROATIA",HR: Grand
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81909
+#EXTINF:-1 tvg-id="" tvg-name="HR: Grand 2" tvg-logo="" group-title="CR➤CROATIA",HR: Grand 2
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81910
+#EXTINF:-1 tvg-id="" tvg-name="HR: DM Sat" tvg-logo="" group-title="CR➤CROATIA",HR: DM Sat
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81911
+#EXTINF:-1 tvg-id="" tvg-name="HR: YU Planet" tvg-logo="" group-title="CR➤CROATIA",HR: YU Planet
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81912
+#EXTINF:-1 tvg-id="" tvg-name="HR: Deluxe Music HD" tvg-logo="" group-title="CR➤CROATIA",HR: Deluxe Music HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81913
+#EXTINF:-1 tvg-id="" tvg-name="HR: Duga TV" tvg-logo="" group-title="CR➤CROATIA",HR: Duga TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81914
+#EXTINF:-1 tvg-id="" tvg-name="HR: Izvorna TV" tvg-logo="" group-title="CR➤CROATIA",HR: Izvorna TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81915
+#EXTINF:-1 tvg-id="" tvg-name="HR: Narodna TV" tvg-logo="" group-title="CR➤CROATIA",HR: Narodna TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81916
+#EXTINF:-1 tvg-id="" tvg-name="HR: OTV Valentino" tvg-logo="" group-title="CR➤CROATIA",HR: OTV Valentino
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81917
+#EXTINF:-1 tvg-id="" tvg-name="HR: Hayat Music" tvg-logo="" group-title="CR➤CROATIA",HR: Hayat Music
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81918
+#EXTINF:-1 tvg-id="" tvg-name="HR: Hayat Folk" tvg-logo="" group-title="CR➤CROATIA",HR: Hayat Folk
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81919
+#EXTINF:-1 tvg-id="" tvg-name="HR: ✦●✦ FILMSKI KANALI✦●✦" tvg-logo="" group-title="CR➤CROATIA",HR: ✦●✦ FILMSKI KANALI✦●✦
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81920
+#EXTINF:-1 tvg-id="" tvg-name="HR: HBO hd" tvg-logo="" group-title="CR➤CROATIA",HR: HBO hd
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81921
+#EXTINF:-1 tvg-id="" tvg-name="HR: HBO 2" tvg-logo="" group-title="CR➤CROATIA",HR: HBO 2
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81922
+#EXTINF:-1 tvg-id="" tvg-name="HR: HBO 3" tvg-logo="" group-title="CR➤CROATIA",HR: HBO 3
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81923
+#EXTINF:-1 tvg-id="" tvg-name="HR: Cinemax 1 HD" tvg-logo="" group-title="CR➤CROATIA",HR: Cinemax 1 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81924
+#EXTINF:-1 tvg-id="" tvg-name="HR: Cinemax 2 HD" tvg-logo="" group-title="CR➤CROATIA",HR: Cinemax 2 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81925
+#EXTINF:-1 tvg-id="" tvg-name="HR: CineStar Premiere 1" tvg-logo="" group-title="CR➤CROATIA",HR: CineStar Premiere 1
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81926
+#EXTINF:-1 tvg-id="" tvg-name="HR: CineStar Premiere 2" tvg-logo="" group-title="CR➤CROATIA",HR: CineStar Premiere 2
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81927
+#EXTINF:-1 tvg-id="" tvg-name="HR: CineStar TV" tvg-logo="" group-title="CR➤CROATIA",HR: CineStar TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81928
+#EXTINF:-1 tvg-id="" tvg-name="HR: CineStar TV 2 HD" tvg-logo="" group-title="CR➤CROATIA",HR: CineStar TV 2 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81929
+#EXTINF:-1 tvg-id="" tvg-name="HR: CineStar Fantasy" tvg-logo="" group-title="CR➤CROATIA",HR: CineStar Fantasy
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81930
+#EXTINF:-1 tvg-id="" tvg-name="HR: Cinestar Action" tvg-logo="" group-title="CR➤CROATIA",HR: Cinestar Action
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81931
+#EXTINF:-1 tvg-id="" tvg-name="HR: FOX" tvg-logo="" group-title="CR➤CROATIA",HR: FOX
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81932
+#EXTINF:-1 tvg-id="" tvg-name="HR: FOX Crime" tvg-logo="" group-title="CR➤CROATIA",HR: FOX Crime
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81933
+#EXTINF:-1 tvg-id="" tvg-name="HR: FOX Life" tvg-logo="" group-title="CR➤CROATIA",HR: FOX Life
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81934
+#EXTINF:-1 tvg-id="" tvg-name="HR: FOX Movies" tvg-logo="" group-title="CR➤CROATIA",HR: FOX Movies
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81935
+#EXTINF:-1 tvg-id="" tvg-name="HR: TV 1000" tvg-logo="" group-title="CR➤CROATIA",HR: TV 1000
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81936
+#EXTINF:-1 tvg-id="" tvg-name="HR: AXN" tvg-logo="" group-title="CR➤CROATIA",HR: AXN
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81937
+#EXTINF:-1 tvg-id="" tvg-name="HR: AXN Spin" tvg-logo="" group-title="CR➤CROATIA",HR: AXN Spin
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81938
+#EXTINF:-1 tvg-id="" tvg-name="HR: Nova Cinema" tvg-logo="" group-title="CR➤CROATIA",HR: Nova Cinema
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81939
+#EXTINF:-1 tvg-id="" tvg-name="HR: NOVA WORLD" tvg-logo="" group-title="CR➤CROATIA",HR: NOVA WORLD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81940
+#EXTINF:-1 tvg-id="" tvg-name="HR: Nova Family" tvg-logo="" group-title="CR➤CROATIA",HR: Nova Family
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81941
+#EXTINF:-1 tvg-id="" tvg-name="HR: ==== SPORTSKI ====" tvg-logo="" group-title="CR➤CROATIA",HR: ==== SPORTSKI ====
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81942
+#EXTINF:-1 tvg-id="" tvg-name="HR: A-SPORT 1 FHD" tvg-logo="" group-title="CR➤CROATIA",HR: A-SPORT 1 FHD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81943
+#EXTINF:-1 tvg-id="" tvg-name="HR: A-SPORT 2 FHD" tvg-logo="" group-title="CR➤CROATIA",HR: A-SPORT 2 FHD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81944
+#EXTINF:-1 tvg-id="" tvg-name="HR: A-SPORT 3 FHD" tvg-logo="" group-title="CR➤CROATIA",HR: A-SPORT 3 FHD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81945
+#EXTINF:-1 tvg-id="" tvg-name="HR: A-SPORT 4 FHD" tvg-logo="" group-title="CR➤CROATIA",HR: A-SPORT 4 FHD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81946
+#EXTINF:-1 tvg-id="" tvg-name="HR: A-SPORT 5 FHD" tvg-logo="" group-title="CR➤CROATIA",HR: A-SPORT 5 FHD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81947
+#EXTINF:-1 tvg-id="" tvg-name="HR: A-Sport 6 FHD" tvg-logo="" group-title="CR➤CROATIA",HR: A-Sport 6 FHD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81948
+#EXTINF:-1 tvg-id="" tvg-name="HR: CROMAX SPORT 1" tvg-logo="" group-title="CR➤CROATIA",HR: CROMAX SPORT 1
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81949
+#EXTINF:-1 tvg-id="" tvg-name="MK: MPT 1 HD" tvg-logo="" group-title="MCD➤MACEDONIA",MK: MPT 1 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81950
+#EXTINF:-1 tvg-id="" tvg-name="MK: MPT 2 HD" tvg-logo="" group-title="MCD➤MACEDONIA",MK: MPT 2 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81951
+#EXTINF:-1 tvg-id="" tvg-name="MK: MPT 3 HD" tvg-logo="" group-title="MCD➤MACEDONIA",MK: MPT 3 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81952
+#EXTINF:-1 tvg-id="" tvg-name="MK: MPT 4" tvg-logo="" group-title="MCD➤MACEDONIA",MK: MPT 4
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81953
+#EXTINF:-1 tvg-id="" tvg-name="MK: MRT 4" tvg-logo="" group-title="MCD➤MACEDONIA",MK: MRT 4
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81954
+#EXTINF:-1 tvg-id="" tvg-name="MK: MPT 5" tvg-logo="" group-title="MCD➤MACEDONIA",MK: MPT 5
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81955
+#EXTINF:-1 tvg-id="" tvg-name="MK: MRT 5" tvg-logo="" group-title="MCD➤MACEDONIA",MK: MRT 5
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81956
+#EXTINF:-1 tvg-id="" tvg-name="MK: Sitel 1 HD" tvg-logo="" group-title="MCD➤MACEDONIA",MK: Sitel 1 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81957
+#EXTINF:-1 tvg-id="" tvg-name="MK: Kanal 5 HD" tvg-logo="" group-title="MCD➤MACEDONIA",MK: Kanal 5 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81958
+#EXTINF:-1 tvg-id="" tvg-name="MK: Kanal 8" tvg-logo="" group-title="MCD➤MACEDONIA",MK: Kanal 8
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81959
+#EXTINF:-1 tvg-id="" tvg-name="MK: Alfa TV" tvg-logo="" group-title="MCD➤MACEDONIA",MK: Alfa TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81960
+#EXTINF:-1 tvg-id="" tvg-name="MK: Telma TV" tvg-logo="" group-title="MCD➤MACEDONIA",MK: Telma TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81961
+#EXTINF:-1 tvg-id="" tvg-name="MK: Tera Bitola TV" tvg-logo="" group-title="MCD➤MACEDONIA",MK: Tera Bitola TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81962
+#EXTINF:-1 tvg-id="" tvg-name="MK: 21 Maqedoni TV" tvg-logo="" group-title="MCD➤MACEDONIA",MK: 21 Maqedoni TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81963
+#EXTINF:-1 tvg-id="" tvg-name="MK: Klan Macedonia" tvg-logo="" group-title="MCD➤MACEDONIA",MK: Klan Macedonia
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81964
+#EXTINF:-1 tvg-id="" tvg-name="MK: Sky Folk" tvg-logo="" group-title="MCD➤MACEDONIA",MK: Sky Folk
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81965
+#EXTINF:-1 tvg-id="" tvg-name="MK: Alsat M TV" tvg-logo="" group-title="MCD➤MACEDONIA",MK: Alsat M TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81966
+#EXTINF:-1 tvg-id="" tvg-name="MK: Folk Klub" tvg-logo="" group-title="MCD➤MACEDONIA",MK: Folk Klub
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81967
+#EXTINF:-1 tvg-id="" tvg-name="MK: Nasha TV" tvg-logo="" group-title="MCD➤MACEDONIA",MK: Nasha TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81968
+#EXTINF:-1 tvg-id="" tvg-name="MK: Sobraniski Kanal HD" tvg-logo="" group-title="MCD➤MACEDONIA",MK: Sobraniski Kanal HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81969
+#EXTINF:-1 tvg-id="" tvg-name="MK: MPT Sobraniski" tvg-logo="" group-title="MCD➤MACEDONIA",MK: MPT Sobraniski
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81970
+#EXTINF:-1 tvg-id="" tvg-name="MK: Nova TV" tvg-logo="" group-title="MCD➤MACEDONIA",MK: Nova TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81971
+#EXTINF:-1 tvg-id="" tvg-name="MK: Makedonska TV" tvg-logo="" group-title="MCD➤MACEDONIA",MK: Makedonska TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81972
+#EXTINF:-1 tvg-id="" tvg-name="MK: Hugo Tv" tvg-logo="" group-title="MCD➤MACEDONIA",MK: Hugo Tv
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81973
+#EXTINF:-1 tvg-id="" tvg-name="MK: Hugo 2 HD" tvg-logo="" group-title="MCD➤MACEDONIA",MK: Hugo 2 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81974
+#EXTINF:-1 tvg-id="" tvg-name="MK: HBO 1 HD" tvg-logo="" group-title="MCD➤MACEDONIA",MK: HBO 1 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81975
+#EXTINF:-1 tvg-id="" tvg-name="MK: HBO 2 HD" tvg-logo="" group-title="MCD➤MACEDONIA",MK: HBO 2 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81976
+#EXTINF:-1 tvg-id="" tvg-name="MK: HBO 3 HD" tvg-logo="" group-title="MCD➤MACEDONIA",MK: HBO 3 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81977
+#EXTINF:-1 tvg-id="" tvg-name="MK: M1 Film" tvg-logo="" group-title="MCD➤MACEDONIA",MK: M1 Film
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81978
+#EXTINF:-1 tvg-id="" tvg-name="MK: INTV Avstralija HD" tvg-logo="" group-title="MCD➤MACEDONIA",MK: INTV Avstralija HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81979
+#EXTINF:-1 tvg-id="" tvg-name="MK: KTV Kavadarci HD" tvg-logo="" group-title="MCD➤MACEDONIA",MK: KTV Kavadarci HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81980
+#EXTINF:-1 tvg-id="" tvg-name="MK: ERA" tvg-logo="" group-title="MCD➤MACEDONIA",MK: ERA
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81981
+#EXTINF:-1 tvg-id="" tvg-name="MK: TV Sonce" tvg-logo="" group-title="MCD➤MACEDONIA",MK: TV Sonce
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81982
+#EXTINF:-1 tvg-id="" tvg-name="MK: Shenja Tv" tvg-logo="" group-title="MCD➤MACEDONIA",MK: Shenja Tv
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81983
+#EXTINF:-1 tvg-id="" tvg-name="MK: Mega Bitola" tvg-logo="" group-title="MCD➤MACEDONIA",MK: Mega Bitola
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81984
+#EXTINF:-1 tvg-id="" tvg-name="MK: Balkan Music TV" tvg-logo="" group-title="MCD➤MACEDONIA",MK: Balkan Music TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81985
+#EXTINF:-1 tvg-id="" tvg-name="MK: Folk" tvg-logo="" group-title="MCD➤MACEDONIA",MK: Folk
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81986
+#EXTINF:-1 tvg-id="" tvg-name="MK: Folk Movies" tvg-logo="" group-title="MCD➤MACEDONIA",MK: Folk Movies
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81987
+#EXTINF:-1 tvg-id="" tvg-name="MK: TV2 Gostivar" tvg-logo="" group-title="MCD➤MACEDONIA",MK: TV2 Gostivar
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81988
+#EXTINF:-1 tvg-id="" tvg-name="MK: TV Plus" tvg-logo="" group-title="MCD➤MACEDONIA",MK: TV Plus
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81989
+#EXTINF:-1 tvg-id="" tvg-name="MK: Film Box Plus" tvg-logo="" group-title="MCD➤MACEDONIA",MK: Film Box Plus
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81990
+#EXTINF:-1 tvg-id="" tvg-name="MK: TV Plus Kumanovo HD" tvg-logo="" group-title="MCD➤MACEDONIA",MK: TV Plus Kumanovo HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81991
+#EXTINF:-1 tvg-id="" tvg-name="MK: CinePlex HD" tvg-logo="" group-title="MCD➤MACEDONIA",MK: CinePlex HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81992
+#EXTINF:-1 tvg-id="" tvg-name="MK: O2 Ohrid HD" tvg-logo="" group-title="MCD➤MACEDONIA",MK: O2 Ohrid HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81993
+#EXTINF:-1 tvg-id="" tvg-name="MK: 24 Vesti" tvg-logo="" group-title="MCD➤MACEDONIA",MK: 24 Vesti
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81994
+#EXTINF:-1 tvg-id="" tvg-name="MK: Cinestar TV Premiere 1 HD" tvg-logo="" group-title="MCD➤MACEDONIA",MK: Cinestar TV Premiere 1 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81995
+#EXTINF:-1 tvg-id="" tvg-name="MK: Cinestar TV Premiere 2 HD" tvg-logo="" group-title="MCD➤MACEDONIA",MK: Cinestar TV Premiere 2 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81996
+#EXTINF:-1 tvg-id="" tvg-name="MK: RTV21" tvg-logo="" group-title="MCD➤MACEDONIA",MK: RTV21
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81997
+#EXTINF:-1 tvg-id="" tvg-name="MK: Film Box Stars HD" tvg-logo="" group-title="MCD➤MACEDONIA",MK: Film Box Stars HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81998
+#EXTINF:-1 tvg-id="" tvg-name="MK: Sutel TV" tvg-logo="" group-title="MCD➤MACEDONIA",MK: Sutel TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/81999
+#EXTINF:-1 tvg-id="" tvg-name="MK: Planeta TV" tvg-logo="" group-title="MCD➤MACEDONIA",MK: Planeta TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82000
+#EXTINF:-1 tvg-id="" tvg-name="MK: Viasat Explore HD" tvg-logo="" group-title="MCD➤MACEDONIA",MK: Viasat Explore HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82001
+#EXTINF:-1 tvg-id="" tvg-name="MK: MTV Igman" tvg-logo="" group-title="MCD➤MACEDONIA",MK: MTV Igman
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82002
+#EXTINF:-1 tvg-id="" tvg-name="MK: Fox Life HD" tvg-logo="" group-title="MCD➤MACEDONIA",MK: Fox Life HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82003
+#EXTINF:-1 tvg-id="" tvg-name="MK: EDO" tvg-logo="" group-title="MCD➤MACEDONIA",MK: EDO
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82004
+#EXTINF:-1 tvg-id="" tvg-name="MK: Kafanska" tvg-logo="" group-title="MCD➤MACEDONIA",MK: Kafanska
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82005
+#EXTINF:-1 tvg-id="" tvg-name="MK: MTM TV" tvg-logo="" group-title="MCD➤MACEDONIA",MK: MTM TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82006
+#EXTINF:-1 tvg-id="" tvg-name="MK: Sandzak TV" tvg-logo="" group-title="MCD➤MACEDONIA",MK: Sandzak TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82007
+#EXTINF:-1 tvg-id="" tvg-name="MK: Viasat History" tvg-logo="" group-title="MCD➤MACEDONIA",MK: Viasat History
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82008
+#EXTINF:-1 tvg-id="" tvg-name="MK: Roma TV FHD" tvg-logo="" group-title="MCD➤MACEDONIA",MK: Roma TV FHD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82009
+#EXTINF:-1 tvg-id="" tvg-name="MK: Sandzak TV HD" tvg-logo="" group-title="MCD➤MACEDONIA",MK: Sandzak TV HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82010
+#EXTINF:-1 tvg-id="" tvg-name="MK: Shutel TV" tvg-logo="" group-title="MCD➤MACEDONIA",MK: Shutel TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82011
+#EXTINF:-1 tvg-id="" tvg-name="MK: Sitel TV" tvg-logo="" group-title="MCD➤MACEDONIA",MK: Sitel TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82012
+#EXTINF:-1 tvg-id="" tvg-name="MK: Sitel TV Backup" tvg-logo="" group-title="MCD➤MACEDONIA",MK: Sitel TV Backup
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82013
+#EXTINF:-1 tvg-id="" tvg-name="MK: Sportska TV HD" tvg-logo="" group-title="MCD➤MACEDONIA",MK: Sportska TV HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82014
+#EXTINF:-1 tvg-id="" tvg-name="MK: TV HD" tvg-logo="" group-title="MCD➤MACEDONIA",MK: TV HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82015
+#EXTINF:-1 tvg-id="" tvg-name="MK: Uskana TV" tvg-logo="" group-title="MCD➤MACEDONIA",MK: Uskana TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82016
+#EXTINF:-1 tvg-id="" tvg-name="MK: RTCG 2" tvg-logo="" group-title="MCD➤MACEDONIA",MK: RTCG 2
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82017
+#EXTINF:-1 tvg-id="" tvg-name="GR: 4E" tvg-logo="" group-title="GR➤GREECE",GR: 4E
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82147
+#EXTINF:-1 tvg-id="" tvg-name="GR: Acheloos TV" tvg-logo="" group-title="GR➤GREECE",GR: Acheloos TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82148
+#EXTINF:-1 tvg-id="" tvg-name="GR: Action 24" tvg-logo="" group-title="GR➤GREECE",GR: Action 24
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82149
+#EXTINF:-1 tvg-id="" tvg-name="GR: Alert TV" tvg-logo="" group-title="GR➤GREECE",GR: Alert TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82150
+#EXTINF:-1 tvg-id="" tvg-name="GR: Alpha" tvg-logo="" group-title="GR➤GREECE",GR: Alpha
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82151
+#EXTINF:-1 tvg-id="" tvg-name="GR: Ant1" tvg-logo="" group-title="GR➤GREECE",GR: Ant1
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82152
+#EXTINF:-1 tvg-id="" tvg-name="GR: Attica TV" tvg-logo="" group-title="GR➤GREECE",GR: Attica TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82153
+#EXTINF:-1 tvg-id="" tvg-name="GR: Baby TV" tvg-logo="" group-title="GR➤GREECE",GR: Baby TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82154
+#EXTINF:-1 tvg-id="" tvg-name="GR: Baraza Music TV" tvg-logo="" group-title="GR➤GREECE",GR: Baraza Music TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82155
+#EXTINF:-1 tvg-id="" tvg-name="GR: Choice" tvg-logo="" group-title="GR➤GREECE",GR: Choice
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82156
+#EXTINF:-1 tvg-id="" tvg-name="GR: Cinemax" tvg-logo="" group-title="GR➤GREECE",GR: Cinemax
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82157
+#EXTINF:-1 tvg-id="" tvg-name="GR: Corfu Channel" tvg-logo="" group-title="GR➤GREECE",GR: Corfu Channel
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82158
+#EXTINF:-1 tvg-id="" tvg-name="GR: COSMOTE SPORT 7" tvg-logo="" group-title="GR➤GREECE",GR: COSMOTE SPORT 7
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82159
+#EXTINF:-1 tvg-id="" tvg-name="GR: Diavata TV" tvg-logo="" group-title="GR➤GREECE",GR: Diavata TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82160
+#EXTINF:-1 tvg-id="" tvg-name="GR: Discovery Science" tvg-logo="" group-title="GR➤GREECE",GR: Discovery Science
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82161
+#EXTINF:-1 tvg-id="" tvg-name="GR: Discovery World" tvg-logo="" group-title="GR➤GREECE",GR: Discovery World
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82162
+#EXTINF:-1 tvg-id="" tvg-name="GR: Ellas TV" tvg-logo="" group-title="GR➤GREECE",GR: Ellas TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82163
+#EXTINF:-1 tvg-id="" tvg-name="GR: Epsilon TV" tvg-logo="" group-title="GR➤GREECE",GR: Epsilon TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82164
+#EXTINF:-1 tvg-id="" tvg-name="GR: ERT 1" tvg-logo="" group-title="GR➤GREECE",GR: ERT 1
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82165
+#EXTINF:-1 tvg-id="" tvg-name="GR: ERT 2" tvg-logo="" group-title="GR➤GREECE",GR: ERT 2
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82166
+#EXTINF:-1 tvg-id="" tvg-name="GR: ERT 3" tvg-logo="" group-title="GR➤GREECE",GR: ERT 3
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82167
+#EXTINF:-1 tvg-id="" tvg-name="GR: ERT News" tvg-logo="" group-title="GR➤GREECE",GR: ERT News
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82168
+#EXTINF:-1 tvg-id="" tvg-name="GR: ERT World" tvg-logo="" group-title="GR➤GREECE",GR: ERT World
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82169
+#EXTINF:-1 tvg-id="" tvg-name="GR: euronews" tvg-logo="" group-title="GR➤GREECE",GR: euronews
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82170
+#EXTINF:-1 tvg-id="" tvg-name="GR: EUROSPORT 1" tvg-logo="" group-title="GR➤GREECE",GR: EUROSPORT 1
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82171
+#EXTINF:-1 tvg-id="" tvg-name="GR: EUROSPORT 2" tvg-logo="" group-title="GR➤GREECE",GR: EUROSPORT 2
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82172
+#EXTINF:-1 tvg-id="" tvg-name="GR: Food Network" tvg-logo="" group-title="GR➤GREECE",GR: Food Network
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82173
+#EXTINF:-1 tvg-id="" tvg-name="GR: Greek TV London" tvg-logo="" group-title="GR➤GREECE",GR: Greek TV London
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82174
+#EXTINF:-1 tvg-id="" tvg-name="GR: Ionian TV" tvg-logo="" group-title="GR➤GREECE",GR: Ionian TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82175
+#EXTINF:-1 tvg-id="" tvg-name="GR: Kontra" tvg-logo="" group-title="GR➤GREECE",GR: Kontra
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82176
+#EXTINF:-1 tvg-id="" tvg-name="GR: Mad TV" tvg-logo="" group-title="GR➤GREECE",GR: Mad TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82177
+#EXTINF:-1 tvg-id="" tvg-name="GR: Magic TV" tvg-logo="" group-title="GR➤GREECE",GR: Magic TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82178
+#EXTINF:-1 tvg-id="" tvg-name="GR: Makedonia TV" tvg-logo="" group-title="GR➤GREECE",GR: Makedonia TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82179
+#EXTINF:-1 tvg-id="" tvg-name="GR: Mega TV" tvg-logo="" group-title="GR➤GREECE",GR: Mega TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82180
+#EXTINF:-1 tvg-id="" tvg-name="GR: Messinia" tvg-logo="" group-title="GR➤GREECE",GR: Messinia
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82181
+#EXTINF:-1 tvg-id="" tvg-name="GR: MGR" tvg-logo="" group-title="GR➤GREECE",GR: MGR
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82182
+#EXTINF:-1 tvg-id="" tvg-name="GR: NAT GEO Wild" tvg-logo="" group-title="GR➤GREECE",GR: NAT GEO Wild
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82183
+#EXTINF:-1 tvg-id="" tvg-name="GR: Nea TV" tvg-logo="" group-title="GR➤GREECE",GR: Nea TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82184
+#EXTINF:-1 tvg-id="" tvg-name="GR: NG Radio" tvg-logo="" group-title="GR➤GREECE",GR: NG Radio
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82185
+#EXTINF:-1 tvg-id="" tvg-name="GR: nickelodeon" tvg-logo="" group-title="GR➤GREECE",GR: nickelodeon
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82186
+#EXTINF:-1 tvg-id="" tvg-name="GR: Nova Cinema 1" tvg-logo="" group-title="GR➤GREECE",GR: Nova Cinema 1
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82187
+#EXTINF:-1 tvg-id="" tvg-name="GR: Nova Cinema 2" tvg-logo="" group-title="GR➤GREECE",GR: Nova Cinema 2
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82188
+#EXTINF:-1 tvg-id="" tvg-name="GR: Nova Cinema 3" tvg-logo="" group-title="GR➤GREECE",GR: Nova Cinema 3
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82189
+#EXTINF:-1 tvg-id="" tvg-name="GR: Nova Cinema 4" tvg-logo="" group-title="GR➤GREECE",GR: Nova Cinema 4
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82190
+#EXTINF:-1 tvg-id="" tvg-name="GR: Nova Premiere Comedy" tvg-logo="" group-title="GR➤GREECE",GR: Nova Premiere Comedy
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82191
+#EXTINF:-1 tvg-id="" tvg-name="GR: Nova Premiere Hellenic" tvg-logo="" group-title="GR➤GREECE",GR: Nova Premiere Hellenic
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82192
+#EXTINF:-1 tvg-id="" tvg-name="GR: Nova Premiere History" tvg-logo="" group-title="GR➤GREECE",GR: Nova Premiere History
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82193
+#EXTINF:-1 tvg-id="" tvg-name="GR: Nova Premiere Mythology" tvg-logo="" group-title="GR➤GREECE",GR: Nova Premiere Mythology
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82194
+#EXTINF:-1 tvg-id="" tvg-name="GR: Nova Premiere Passion" tvg-logo="" group-title="GR➤GREECE",GR: Nova Premiere Passion
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82195
+#EXTINF:-1 tvg-id="" tvg-name="GR: Nova Premiere sci-fi" tvg-logo="" group-title="GR➤GREECE",GR: Nova Premiere sci-fi
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82196
+#EXTINF:-1 tvg-id="" tvg-name="GR: Nova Premiere Starz" tvg-logo="" group-title="GR➤GREECE",GR: Nova Premiere Starz
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82197
+#EXTINF:-1 tvg-id="" tvg-name="GR: Nova Premiere Thriller" tvg-logo="" group-title="GR➤GREECE",GR: Nova Premiere Thriller
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82198
+#EXTINF:-1 tvg-id="" tvg-name="GR: Nova Premiere Western" tvg-logo="" group-title="GR➤GREECE",GR: Nova Premiere Western
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82199
+#EXTINF:-1 tvg-id="" tvg-name="GR: Nova sports 2" tvg-logo="" group-title="GR➤GREECE",GR: Nova sports 2
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82200
+#EXTINF:-1 tvg-id="" tvg-name="GR: Nova Sports 5" tvg-logo="" group-title="GR➤GREECE",GR: Nova Sports 5
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82201
+#EXTINF:-1 tvg-id="" tvg-name="GR: Nova sports Prime" tvg-logo="" group-title="GR➤GREECE",GR: Nova sports Prime
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82202
+#EXTINF:-1 tvg-id="" tvg-name="GR: NRG 91" tvg-logo="" group-title="GR➤GREECE",GR: NRG 91
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82203
+#EXTINF:-1 tvg-id="" tvg-name="GR: Open Beyond TV" tvg-logo="" group-title="GR➤GREECE",GR: Open Beyond TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82204
+#EXTINF:-1 tvg-id="" tvg-name="GR: Play TV" tvg-logo="" group-title="GR➤GREECE",GR: Play TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82205
+#EXTINF:-1 tvg-id="" tvg-name="GR: Reload" tvg-logo="" group-title="GR➤GREECE",GR: Reload
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82206
+#EXTINF:-1 tvg-id="" tvg-name="GR: Samiaki" tvg-logo="" group-title="GR➤GREECE",GR: Samiaki
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82207
+#EXTINF:-1 tvg-id="" tvg-name="GR: Sigma" tvg-logo="" group-title="GR➤GREECE",GR: Sigma
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82208
+#EXTINF:-1 tvg-id="" tvg-name="GR: Skai" tvg-logo="" group-title="GR➤GREECE",GR: Skai
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82209
+#EXTINF:-1 tvg-id="" tvg-name="GR: Smile TV" tvg-logo="" group-title="GR➤GREECE",GR: Smile TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82210
+#EXTINF:-1 tvg-id="" tvg-name="GR: Star Channel" tvg-logo="" group-title="GR➤GREECE",GR: Star Channel
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82211
+#EXTINF:-1 tvg-id="" tvg-name="GR: Star Kentrikis" tvg-logo="" group-title="GR➤GREECE",GR: Star Kentrikis
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82212
+#EXTINF:-1 tvg-id="" tvg-name="GR: Start TV" tvg-logo="" group-title="GR➤GREECE",GR: Start TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82213
+#EXTINF:-1 tvg-id="" tvg-name="GR: Syros TV1" tvg-logo="" group-title="GR➤GREECE",GR: Syros TV1
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82214
+#EXTINF:-1 tvg-id="" tvg-name="GR: ThrakiNet" tvg-logo="" group-title="GR➤GREECE",GR: ThrakiNet
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82215
+#EXTINF:-1 tvg-id="" tvg-name="GR: Top TV" tvg-logo="" group-title="GR➤GREECE",GR: Top TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82216
+#EXTINF:-1 tvg-id="" tvg-name="GR: TV 100" tvg-logo="" group-title="GR➤GREECE",GR: TV 100
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82217
+#EXTINF:-1 tvg-id="" tvg-name="GR: TV Creta" tvg-logo="" group-title="GR➤GREECE",GR: TV Creta
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82218
+#EXTINF:-1 tvg-id="" tvg-name="GR: TV Notos" tvg-logo="" group-title="GR➤GREECE",GR: TV Notos
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82219
+#EXTINF:-1 tvg-id="" tvg-name="GR: Viasat Nature" tvg-logo="" group-title="GR➤GREECE",GR: Viasat Nature
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82220
+#EXTINF:-1 tvg-id="" tvg-name="GR: Vouli Tileorasi 2" tvg-logo="" group-title="GR➤GREECE",GR: Vouli Tileorasi 2
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82221
+#EXTINF:-1 tvg-id="" tvg-name="GR: Vouli TV" tvg-logo="" group-title="GR➤GREECE",GR: Vouli TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82222
+#EXTINF:-1 tvg-id="" tvg-name="GR: Xalastra TV" tvg-logo="" group-title="GR➤GREECE",GR: Xalastra TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82223
+#EXTINF:-1 tvg-id="" tvg-name="GR: Xplore" tvg-logo="" group-title="GR➤GREECE",GR: Xplore
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82224
+#EXTINF:-1 tvg-id="" tvg-name="GR: Zougla TV" tvg-logo="" group-title="GR➤GREECE",GR: Zougla TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82225
+#EXTINF:-1 tvg-id="" tvg-name="GR: Zouzounia TV" tvg-logo="" group-title="GR➤GREECE",GR: Zouzounia TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82226
+#EXTINF:-1 tvg-id="" tvg-name="GR: COSMOTE SPORT 3" tvg-logo="" group-title="GR➤GREECE",GR: COSMOTE SPORT 3
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82227
+#EXTINF:-1 tvg-id="" tvg-name="GR: COSMOTE SPORT 4" tvg-logo="" group-title="GR➤GREECE",GR: COSMOTE SPORT 4
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82228
+#EXTINF:-1 tvg-id="" tvg-name="GR: Viasat History" tvg-logo="" group-title="GR➤GREECE",GR: Viasat History
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82229
+#EXTINF:-1 tvg-id="" tvg-name="GR: COSMOTE SPORT 8" tvg-logo="" group-title="GR➤GREECE",GR: COSMOTE SPORT 8
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82230
+#EXTINF:-1 tvg-id="" tvg-name="GR: COSMOTE SPORT 9" tvg-logo="" group-title="GR➤GREECE",GR: COSMOTE SPORT 9
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82231
+#EXTINF:-1 tvg-id="" tvg-name="GR: COSMOTE CINEMA 1" tvg-logo="" group-title="GR➤GREECE",GR: COSMOTE CINEMA 1
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82232
+#EXTINF:-1 tvg-id="" tvg-name="GR: Nova Sports 3" tvg-logo="" group-title="GR➤GREECE",GR: Nova Sports 3
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82233
+#EXTINF:-1 tvg-id="" tvg-name="GR: Nova Sports 1" tvg-logo="" group-title="GR➤GREECE",GR: Nova Sports 1
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82234
+#EXTINF:-1 tvg-id="" tvg-name="GR: Mad Greekz" tvg-logo="" group-title="GR➤GREECE",GR: Mad Greekz
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82235
+#EXTINF:-1 tvg-id="" tvg-name="BIH: BHT 1" tvg-logo="" group-title="BIH ➤Bosnia Herzegovina",BIH: BHT 1
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82997
+#EXTINF:-1 tvg-id="" tvg-name="BIH: OBN" tvg-logo="" group-title="BIH ➤Bosnia Herzegovina",BIH: OBN
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82998
+#EXTINF:-1 tvg-id="" tvg-name="BIH: OBN" tvg-logo="" group-title="BIH ➤Bosnia Herzegovina",BIH: OBN
+http://217.79.184.82:8080/ncm3996ydk/ncm11/82999
+#EXTINF:-1 tvg-id="" tvg-name="BIH: Nova BH SD" tvg-logo="" group-title="BIH ➤Bosnia Herzegovina",BIH: Nova BH SD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83000
+#EXTINF:-1 tvg-id="" tvg-name="BIH: Face TV" tvg-logo="" group-title="BIH ➤Bosnia Herzegovina",BIH: Face TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83001
+#EXTINF:-1 tvg-id="" tvg-name="BIH: Hayat TV" tvg-logo="" group-title="BIH ➤Bosnia Herzegovina",BIH: Hayat TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83002
+#EXTINF:-1 tvg-id="" tvg-name="BIH: Hayat Folk" tvg-logo="" group-title="BIH ➤Bosnia Herzegovina",BIH: Hayat Folk
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83003
+#EXTINF:-1 tvg-id="" tvg-name="BIH: Hayat Music" tvg-logo="" group-title="BIH ➤Bosnia Herzegovina",BIH: Hayat Music
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83004
+#EXTINF:-1 tvg-id="" tvg-name="BIH: Valentino TV" tvg-logo="" group-title="BIH ➤Bosnia Herzegovina",BIH: Valentino TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83005
+#EXTINF:-1 tvg-id="" tvg-name="BIH: Pink BH" tvg-logo="" group-title="BIH ➤Bosnia Herzegovina",BIH: Pink BH
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83006
+#EXTINF:-1 tvg-id="" tvg-name="BIH: RTRS PLUS" tvg-logo="" group-title="BIH ➤Bosnia Herzegovina",BIH: RTRS PLUS
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83007
+#EXTINF:-1 tvg-id="" tvg-name="BIH: RTV Zenica" tvg-logo="" group-title="BIH ➤Bosnia Herzegovina",BIH: RTV Zenica
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83008
+#EXTINF:-1 tvg-id="" tvg-name="BIH: RTRS" tvg-logo="" group-title="BIH ➤Bosnia Herzegovina",BIH: RTRS
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83009
+#EXTINF:-1 tvg-id="" tvg-name="BIH: Hayatovci" tvg-logo="" group-title="BIH ➤Bosnia Herzegovina",BIH: Hayatovci
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83010
+#EXTINF:-1 tvg-id="" tvg-name="BIH: GLAS DRINE HD" tvg-logo="" group-title="BIH ➤Bosnia Herzegovina",BIH: GLAS DRINE HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83011
+#EXTINF:-1 tvg-id="" tvg-name="BIH: Federalna TV" tvg-logo="" group-title="BIH ➤Bosnia Herzegovina",BIH: Federalna TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83012
+#EXTINF:-1 tvg-id="" tvg-name="BIH: 24 Kitchen" tvg-logo="" group-title="BIH ➤Bosnia Herzegovina",BIH: 24 Kitchen
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83013
+#EXTINF:-1 tvg-id="" tvg-name="BIH: POSAVINA TV" tvg-logo="" group-title="BIH ➤Bosnia Herzegovina",BIH: POSAVINA TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83014
+#EXTINF:-1 tvg-id="" tvg-name="BIH: BN Music" tvg-logo="" group-title="BIH ➤Bosnia Herzegovina",BIH: BN Music
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83015
+#EXTINF:-1 tvg-id="" tvg-name="BIH: Minimax" tvg-logo="" group-title="BIH ➤Bosnia Herzegovina",BIH: Minimax
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83016
+#EXTINF:-1 tvg-id="" tvg-name="BIH: HBO 2" tvg-logo="" group-title="BIH ➤Bosnia Herzegovina",BIH: HBO 2
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83017
+#EXTINF:-1 tvg-id="" tvg-name="BIH: EUROSPORT 1" tvg-logo="" group-title="BIH ➤Bosnia Herzegovina",BIH: EUROSPORT 1
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83018
+#EXTINF:-1 tvg-id="" tvg-name="BIH: Diva" tvg-logo="" group-title="BIH ➤Bosnia Herzegovina",BIH: Diva
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83019
+#EXTINF:-1 tvg-id="" tvg-name="BIH: Discovery Science" tvg-logo="" group-title="BIH ➤Bosnia Herzegovina",BIH: Discovery Science
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83020
+#EXTINF:-1 tvg-id="" tvg-name="BIH: FOX" tvg-logo="" group-title="BIH ➤Bosnia Herzegovina",BIH: FOX
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83021
+#EXTINF:-1 tvg-id="" tvg-name="BIH: Fox Movies" tvg-logo="" group-title="BIH ➤Bosnia Herzegovina",BIH: Fox Movies
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83022
+#EXTINF:-1 tvg-id="" tvg-name="BIH: Cinemax 2" tvg-logo="" group-title="BIH ➤Bosnia Herzegovina",BIH: Cinemax 2
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83023
+#EXTINF:-1 tvg-id="" tvg-name="BIH: CITY TV" tvg-logo="" group-title="BIH ➤Bosnia Herzegovina",BIH: CITY TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83024
+#EXTINF:-1 tvg-id="" tvg-name="BIH: Alfa Tv Sarajevo" tvg-logo="" group-title="BIH ➤Bosnia Herzegovina",BIH: Alfa Tv Sarajevo
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83025
+#EXTINF:-1 tvg-id="" tvg-name="BIH: MTV Igman" tvg-logo="" group-title="BIH ➤Bosnia Herzegovina",BIH: MTV Igman
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83026
+#EXTINF:-1 tvg-id="" tvg-name="BIH: TV 5 HD islam" tvg-logo="" group-title="BIH ➤Bosnia Herzegovina",BIH: TV 5 HD islam
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83027
+#EXTINF:-1 tvg-id="" tvg-name="BIH: AL Jazeera Balkans" tvg-logo="" group-title="BIH ➤Bosnia Herzegovina",BIH: AL Jazeera Balkans
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83028
+#EXTINF:-1 tvg-id="" tvg-name="BIH: HIT Brcko" tvg-logo="" group-title="BIH ➤Bosnia Herzegovina",BIH: HIT Brcko
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83029
+#EXTINF:-1 tvg-id="" tvg-name="BIH: RTV" tvg-logo="" group-title="BIH ➤Bosnia Herzegovina",BIH: RTV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83030
+#EXTINF:-1 tvg-id="" tvg-name="BIH: ATV ALTERNATIVNA" tvg-logo="" group-title="BIH ➤Bosnia Herzegovina",BIH: ATV ALTERNATIVNA
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83031
+#EXTINF:-1 tvg-id="" tvg-name="BIH: KANAL 6 HD" tvg-logo="" group-title="BIH ➤Bosnia Herzegovina",BIH: KANAL 6 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83032
+#EXTINF:-1 tvg-id="" tvg-name="BIH: TV SLON EXTRA HD" tvg-logo="" group-title="BIH ➤Bosnia Herzegovina",BIH: TV SLON EXTRA HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83033
+#EXTINF:-1 tvg-id="" tvg-name="BIH: BN" tvg-logo="" group-title="BIH ➤Bosnia Herzegovina",BIH: BN
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83034
+#EXTINF:-1 tvg-id="" tvg-name="BIH: IZVORNA TV" tvg-logo="" group-title="BIH ➤Bosnia Herzegovina",BIH: IZVORNA TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83035
+#EXTINF:-1 tvg-id="" tvg-name="BIH: TV TK" tvg-logo="" group-title="BIH ➤Bosnia Herzegovina",BIH: TV TK
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83036
+#EXTINF:-1 tvg-id="" tvg-name="BIH: Elta HD" tvg-logo="" group-title="BIH ➤Bosnia Herzegovina",BIH: Elta HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83037
+#EXTINF:-1 tvg-id="" tvg-name="BIH: Alternativna TV" tvg-logo="" group-title="BIH ➤Bosnia Herzegovina",BIH: Alternativna TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83038
+#EXTINF:-1 tvg-id="" tvg-name="BIH: Golica TV" tvg-logo="" group-title="BIH ➤Bosnia Herzegovina",BIH: Golica TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83039
+#EXTINF:-1 tvg-id="" tvg-name="BIH: O KANAL HD" tvg-logo="" group-title="BIH ➤Bosnia Herzegovina",BIH: O KANAL HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83040
+#EXTINF:-1 tvg-id="" tvg-name="BIH: HEMA TV" tvg-logo="" group-title="BIH ➤Bosnia Herzegovina",BIH: HEMA TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83041
+#EXTINF:-1 tvg-id="" tvg-name="BIH: B1 TELEVIZIJA" tvg-logo="" group-title="BIH ➤Bosnia Herzegovina",BIH: B1 TELEVIZIJA
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83042
+#EXTINF:-1 tvg-id="" tvg-name="BIH: N1 BH" tvg-logo="" group-title="BIH ➤Bosnia Herzegovina",BIH: N1 BH
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83043
+#EXTINF:-1 tvg-id="" tvg-name="BIH: Alfa TV" tvg-logo="" group-title="BIH ➤Bosnia Herzegovina",BIH: Alfa TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83044
+#EXTINF:-1 tvg-id="" tvg-name="BIH: Hayat Plus" tvg-logo="" group-title="BIH ➤Bosnia Herzegovina",BIH: Hayat Plus
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83045
+#EXTINF:-1 tvg-id="" tvg-name="BIH: K3 Prnjavor" tvg-logo="" group-title="BIH ➤Bosnia Herzegovina",BIH: K3 Prnjavor
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83046
+#EXTINF:-1 tvg-id="" tvg-name="BIH: Izvorna TV" tvg-logo="" group-title="BIH ➤Bosnia Herzegovina",BIH: Izvorna TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83047
+#EXTINF:-1 tvg-id="" tvg-name="IN: & FLIX" tvg-logo="" group-title="iN ➤iNDIA ",IN: & FLIX
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83048
+#EXTINF:-1 tvg-id="" tvg-name="IN: ABP News" tvg-logo="" group-title="iN ➤iNDIA ",IN: ABP News
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83049
+#EXTINF:-1 tvg-id="" tvg-name="IN: B4U Kadak" tvg-logo="" group-title="iN ➤iNDIA ",IN: B4U Kadak
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83050
+#EXTINF:-1 tvg-id="" tvg-name="IN: B4U Movies" tvg-logo="" group-title="iN ➤iNDIA ",IN: B4U Movies
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83051
+#EXTINF:-1 tvg-id="" tvg-name="IN: B4U Plus" tvg-logo="" group-title="iN ➤iNDIA ",IN: B4U Plus
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83052
+#EXTINF:-1 tvg-id="" tvg-name="IN: BOLLYWOOD NOW" tvg-logo="" group-title="iN ➤iNDIA ",IN: BOLLYWOOD NOW
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83053
+#EXTINF:-1 tvg-id="" tvg-name="IN: COLORS CINEPLEX" tvg-logo="" group-title="iN ➤iNDIA ",IN: COLORS CINEPLEX
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83054
+#EXTINF:-1 tvg-id="" tvg-name="IN: D Sport" tvg-logo="" group-title="iN ➤iNDIA ",IN: D Sport
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83055
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD National" tvg-logo="" group-title="iN ➤iNDIA ",IN: DD National
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83056
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD SPORTS" tvg-logo="" group-title="iN ➤iNDIA ",IN: DD SPORTS
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83057
+#EXTINF:-1 tvg-id="" tvg-name="IN: DHAMAAL TV" tvg-logo="" group-title="iN ➤iNDIA ",IN: DHAMAAL TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83058
+#EXTINF:-1 tvg-id="" tvg-name="IN: DIL SE" tvg-logo="" group-title="iN ➤iNDIA ",IN: DIL SE
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83059
+#EXTINF:-1 tvg-id="" tvg-name="IN: DILLAGI TV" tvg-logo="" group-title="iN ➤iNDIA ",IN: DILLAGI TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83060
+#EXTINF:-1 tvg-id="" tvg-name="IN: DSPORTS 1" tvg-logo="" group-title="iN ➤iNDIA ",IN: DSPORTS 1
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83061
+#EXTINF:-1 tvg-id="" tvg-name="IN: ENTER 10" tvg-logo="" group-title="iN ➤iNDIA ",IN: ENTER 10
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83062
+#EXTINF:-1 tvg-id="" tvg-name="IN: FOOD FOOD" tvg-logo="" group-title="iN ➤iNDIA ",IN: FOOD FOOD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83063
+#EXTINF:-1 tvg-id="" tvg-name="IN: Gaunda Punjab TV" tvg-logo="" group-title="iN ➤iNDIA ",IN: Gaunda Punjab TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83064
+#EXTINF:-1 tvg-id="" tvg-name="IN: Jhanjar Music" tvg-logo="" group-title="iN ➤iNDIA ",IN: Jhanjar Music
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83065
+#EXTINF:-1 tvg-id="" tvg-name="IN: Kairali TV" tvg-logo="" group-title="iN ➤iNDIA ",IN: Kairali TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83066
+#EXTINF:-1 tvg-id="" tvg-name="IN: Kairali We" tvg-logo="" group-title="iN ➤iNDIA ",IN: Kairali We
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83067
+#EXTINF:-1 tvg-id="" tvg-name="IN: LIVING FOODZ" tvg-logo="" group-title="iN ➤iNDIA ",IN: LIVING FOODZ
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83068
+#EXTINF:-1 tvg-id="" tvg-name="IN: Living India News" tvg-logo="" group-title="iN ➤iNDIA ",IN: Living India News
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83069
+#EXTINF:-1 tvg-id="" tvg-name="IN: MAHA MOVIES" tvg-logo="" group-title="iN ➤iNDIA ",IN: MAHA MOVIES
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83070
+#EXTINF:-1 tvg-id="" tvg-name="IN: MANORANJAN MOVIES" tvg-logo="" group-title="iN ➤iNDIA ",IN: MANORANJAN MOVIES
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83071
+#EXTINF:-1 tvg-id="" tvg-name="IN: MANORANJAN TV" tvg-logo="" group-title="iN ➤iNDIA ",IN: MANORANJAN TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83072
+#EXTINF:-1 tvg-id="" tvg-name="IN: NDTV INDIA" tvg-logo="" group-title="iN ➤iNDIA ",IN: NDTV INDIA
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83073
+#EXTINF:-1 tvg-id="" tvg-name="IN: News 18 India" tvg-logo="" group-title="iN ➤iNDIA ",IN: News 18 India
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83074
+#EXTINF:-1 tvg-id="" tvg-name="IN: PITAARA" tvg-logo="" group-title="iN ➤iNDIA ",IN: PITAARA
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83075
+#EXTINF:-1 tvg-id="" tvg-name="IN: Punjabi TV" tvg-logo="" group-title="iN ➤iNDIA ",IN: Punjabi TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83076
+#EXTINF:-1 tvg-id="" tvg-name="IN: Rishtey Europe" tvg-logo="" group-title="iN ➤iNDIA ",IN: Rishtey Europe
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83077
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sardari TV" tvg-logo="" group-title="iN ➤iNDIA ",IN: Sardari TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83078
+#EXTINF:-1 tvg-id="" tvg-name="IN: Shubhsandesh" tvg-logo="" group-title="iN ➤iNDIA ",IN: Shubhsandesh
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83079
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sikh Channel" tvg-logo="" group-title="iN ➤iNDIA ",IN: Sikh Channel
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83080
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY MAX" tvg-logo="" group-title="iN ➤iNDIA ",IN: SONY MAX
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83081
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sab" tvg-logo="" group-title="iN ➤iNDIA ",IN: Sony Sab
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83082
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY SIX" tvg-logo="" group-title="iN ➤iNDIA ",IN: SONY SIX
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83083
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY TV" tvg-logo="" group-title="iN ➤iNDIA ",IN: SONY TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83084
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR BHARAT" tvg-logo="" group-title="iN ➤iNDIA ",IN: STAR BHARAT
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83085
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold" tvg-logo="" group-title="iN ➤iNDIA ",IN: Star Gold
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83086
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR PLUS" tvg-logo="" group-title="iN ➤iNDIA ",IN: STAR PLUS
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83087
+#EXTINF:-1 tvg-id="" tvg-name="IN: Times Now" tvg-logo="" group-title="iN ➤iNDIA ",IN: Times Now
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83088
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE ACTION" tvg-logo="" group-title="iN ➤iNDIA ",IN: ZEE ACTION
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83089
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE ANMOL" tvg-logo="" group-title="iN ➤iNDIA ",IN: ZEE ANMOL
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83090
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE BOLLYWOOD" tvg-logo="" group-title="iN ➤iNDIA ",IN: ZEE BOLLYWOOD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83091
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE CINEMA" tvg-logo="" group-title="iN ➤iNDIA ",IN: ZEE CINEMA
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83092
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE MARATHI" tvg-logo="" group-title="iN ➤iNDIA ",IN: ZEE MARATHI
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83093
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE NEWS" tvg-logo="" group-title="iN ➤iNDIA ",IN: ZEE NEWS
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83094
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Punjabi" tvg-logo="" group-title="iN ➤iNDIA ",IN: Zee Punjabi
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83095
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE TV" tvg-logo="" group-title="iN ➤iNDIA ",IN: ZEE TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83096
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Pink 1" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Pink 1
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83097
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Pink 2" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Pink 2
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83098
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Pink 3" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Pink 3
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83099
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Pink Action" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Pink Action
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83100
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Pink Classic" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Pink Classic
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83101
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Pink Comedy" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Pink Comedy
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83102
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Pink Crime & Mystery" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Pink Crime & Mystery
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83103
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Pink Extra" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Pink Extra
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83104
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Pink Family" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Pink Family
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83105
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Pink Film" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Pink Film
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83106
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Pink Folk 1" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Pink Folk 1
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83107
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Pink Folk 2 HD" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Pink Folk 2 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83108
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Pink HAHA" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Pink HAHA
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83109
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Pink Hits 2" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Pink Hits 2
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83110
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Pink Horror" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Pink Horror
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83111
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Pink Kids" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Pink Kids
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83112
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Pink Kuvar" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Pink Kuvar
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83113
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Pink LOL SRB" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Pink LOL SRB
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83114
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Pink Movies" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Pink Movies
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83115
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Pink Music 1" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Pink Music 1
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83116
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Pink Music 2" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Pink Music 2
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83117
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Pink Pedia" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Pink Pedia
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83118
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Pink Plus" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Pink Plus
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83119
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Pink Premium" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Pink Premium
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83120
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Pink Reality" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Pink Reality
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83121
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Pink Romance" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Pink Romance
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83122
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Pink Sci Fi & Fantasy" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Pink Sci Fi & Fantasy
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83123
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Pink Serije" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Pink Serije
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83124
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Pink Show" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Pink Show
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83125
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Pink Soap" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Pink Soap
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83126
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Pink Style" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Pink Style
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83127
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Pink Thriler" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Pink Thriler
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83128
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Pink Western" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Pink Western
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83129
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Pink World" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Pink World
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83130
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Pink Zabava" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Pink Zabava
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83131
+#EXTINF:-1 tvg-id="" tvg-name="SRB: RTS 1 HD" tvg-logo="" group-title="SRB ➤SERBiA",SRB: RTS 1 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83132
+#EXTINF:-1 tvg-id="" tvg-name="SRB: RTS 3" tvg-logo="" group-title="SRB ➤SERBiA",SRB: RTS 3
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83133
+#EXTINF:-1 tvg-id="" tvg-name="SRB: RTS 2" tvg-logo="" group-title="SRB ➤SERBiA",SRB: RTS 2
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83134
+#EXTINF:-1 tvg-id="" tvg-name="SRB: RTRS" tvg-logo="" group-title="SRB ➤SERBiA",SRB: RTRS
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83135
+#EXTINF:-1 tvg-id="" tvg-name="SRB: RTS Satelit" tvg-logo="" group-title="SRB ➤SERBiA",SRB: RTS Satelit
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83136
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Nova HD" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Nova HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83137
+#EXTINF:-1 tvg-id="" tvg-name="SRB: B92" tvg-logo="" group-title="SRB ➤SERBiA",SRB: B92
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83138
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Prva 1 TV" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Prva 1 TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83139
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Prva Plus" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Prva Plus
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83140
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Prva World" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Prva World
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83141
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Prva Max" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Prva Max
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83142
+#EXTINF:-1 tvg-id="" tvg-name="SRB: RTCG 1" tvg-logo="" group-title="SRB ➤SERBiA",SRB: RTCG 1
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83143
+#EXTINF:-1 tvg-id="" tvg-name="SRB: RTL Kockica" tvg-logo="" group-title="SRB ➤SERBiA",SRB: RTL Kockica
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83144
+#EXTINF:-1 tvg-id="" tvg-name="SRB: RTV 1" tvg-logo="" group-title="SRB ➤SERBiA",SRB: RTV 1
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83145
+#EXTINF:-1 tvg-id="" tvg-name="SRB: RTV MLAVA" tvg-logo="" group-title="SRB ➤SERBiA",SRB: RTV MLAVA
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83146
+#EXTINF:-1 tvg-id="" tvg-name="SRB: RTV Pazar" tvg-logo="" group-title="SRB ➤SERBiA",SRB: RTV Pazar
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83147
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Sandzak TV HD" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Sandzak TV HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83148
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Discovery Channel HD" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Discovery Channel HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83149
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Klasik TV" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Klasik TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83150
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Discovery ID HD" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Discovery ID HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83151
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Nickelodeon HD" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Nickelodeon HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83152
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Fox HD" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Fox HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83153
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Nat Geo Wild HD" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Nat Geo Wild HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83154
+#EXTINF:-1 tvg-id="" tvg-name="SRB: ATV" tvg-logo="" group-title="SRB ➤SERBiA",SRB: ATV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83155
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Filmbox Extra" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Filmbox Extra
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83156
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Filmbox Plus" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Filmbox Plus
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83157
+#EXTINF:-1 tvg-id="" tvg-name="SRB: HBO 1 HD" tvg-logo="" group-title="SRB ➤SERBiA",SRB: HBO 1 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83158
+#EXTINF:-1 tvg-id="" tvg-name="SRB: HBO 2 HD" tvg-logo="" group-title="SRB ➤SERBiA",SRB: HBO 2 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83159
+#EXTINF:-1 tvg-id="" tvg-name="SRB: HBO 3 HD" tvg-logo="" group-title="SRB ➤SERBiA",SRB: HBO 3 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83160
+#EXTINF:-1 tvg-id="" tvg-name="SRB: SciFi" tvg-logo="" group-title="SRB ➤SERBiA",SRB: SciFi
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83161
+#EXTINF:-1 tvg-id="" tvg-name="SRB: TV 1000 HD" tvg-logo="" group-title="SRB ➤SERBiA",SRB: TV 1000 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83162
+#EXTINF:-1 tvg-id="" tvg-name="SRB: AXN HD" tvg-logo="" group-title="SRB ➤SERBiA",SRB: AXN HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83163
+#EXTINF:-1 tvg-id="" tvg-name="SRB: RTV Vojvodina" tvg-logo="" group-title="SRB ➤SERBiA",SRB: RTV Vojvodina
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83164
+#EXTINF:-1 tvg-id="" tvg-name="SRB: DM Sat" tvg-logo="" group-title="SRB ➤SERBiA",SRB: DM Sat
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83165
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Fox Crime HD" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Fox Crime HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83166
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Fox Life HD" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Fox Life HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83167
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Fox Movies HD" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Fox Movies HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83168
+#EXTINF:-1 tvg-id="" tvg-name="SRB: AXN Spin" tvg-logo="" group-title="SRB ➤SERBiA",SRB: AXN Spin
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83169
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Belle Amie" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Belle Amie
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83170
+#EXTINF:-1 tvg-id="" tvg-name="SRB: CineStar Premiere 1 HD" tvg-logo="" group-title="SRB ➤SERBiA",SRB: CineStar Premiere 1 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83171
+#EXTINF:-1 tvg-id="" tvg-name="SRB: CineStar Premiere 2 HD" tvg-logo="" group-title="SRB ➤SERBiA",SRB: CineStar Premiere 2 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83172
+#EXTINF:-1 tvg-id="" tvg-name="SRB: CineStar TV" tvg-logo="" group-title="SRB ➤SERBiA",SRB: CineStar TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83173
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Crime+ Investigation" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Crime+ Investigation
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83174
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Food Network" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Food Network
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83175
+#EXTINF:-1 tvg-id="" tvg-name="SRB: GRAND TV 2" tvg-logo="" group-title="SRB ➤SERBiA",SRB: GRAND TV 2
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83176
+#EXTINF:-1 tvg-id="" tvg-name="SRB: HAPPY" tvg-logo="" group-title="SRB ➤SERBiA",SRB: HAPPY
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83177
+#EXTINF:-1 tvg-id="" tvg-name="SRB: IDJ TV" tvg-logo="" group-title="SRB ➤SERBiA",SRB: IDJ TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83178
+#EXTINF:-1 tvg-id="" tvg-name="SRB: KCN 2" tvg-logo="" group-title="SRB ➤SERBiA",SRB: KCN 2
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83179
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Lov i Ribolov" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Lov i Ribolov
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83180
+#EXTINF:-1 tvg-id="" tvg-name="SRB: N1 TV" tvg-logo="" group-title="SRB ➤SERBiA",SRB: N1 TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83181
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Sport Klub 6 HD" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Sport Klub 6 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83182
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Studio B" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Studio B
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83183
+#EXTINF:-1 tvg-id="" tvg-name="SRB: SUPERSTAR TV" tvg-logo="" group-title="SRB ➤SERBiA",SRB: SUPERSTAR TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83184
+#EXTINF:-1 tvg-id="" tvg-name="SRB: TLC HD" tvg-logo="" group-title="SRB ➤SERBiA",SRB: TLC HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83185
+#EXTINF:-1 tvg-id="" tvg-name="SRB: KCN 1" tvg-logo="" group-title="SRB ➤SERBiA",SRB: KCN 1
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83186
+#EXTINF:-1 tvg-id="" tvg-name="SRB: KCN 3" tvg-logo="" group-title="SRB ➤SERBiA",SRB: KCN 3
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83187
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Roma Tv" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Roma Tv
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83188
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Cinemania" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Cinemania
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83189
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Cinemax 1" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Cinemax 1
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83190
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Cinemax 2" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Cinemax 2
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83191
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Cinestar Premiere 1" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Cinestar Premiere 1
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83192
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Cinestar Premiere 2" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Cinestar Premiere 2
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83193
+#EXTINF:-1 tvg-id="" tvg-name="SRB: HBO Adria" tvg-logo="" group-title="SRB ➤SERBiA",SRB: HBO Adria
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83194
+#EXTINF:-1 tvg-id="" tvg-name="SRB: M1 Film" tvg-logo="" group-title="SRB ➤SERBiA",SRB: M1 Film
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83195
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Mini Ultra TV" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Mini Ultra TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83196
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Nat Geo" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Nat Geo
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83197
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Tom And Jerry HD" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Tom And Jerry HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83198
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Duga TV" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Duga TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83199
+#EXTINF:-1 tvg-id="" tvg-name="SRB: TV Hram" tvg-logo="" group-title="SRB ➤SERBiA",SRB: TV Hram
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83200
+#EXTINF:-1 tvg-id="" tvg-name="SRB: TV ISTOK 1" tvg-logo="" group-title="SRB ➤SERBiA",SRB: TV ISTOK 1
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83201
+#EXTINF:-1 tvg-id="" tvg-name="SRB: TV ISTOK 2" tvg-logo="" group-title="SRB ➤SERBiA",SRB: TV ISTOK 2
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83202
+#EXTINF:-1 tvg-id="" tvg-name="SRB: MiniMax TV" tvg-logo="" group-title="SRB ➤SERBiA",SRB: MiniMax TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83203
+#EXTINF:-1 tvg-id="" tvg-name="SRB: 24 Kitchen HD" tvg-logo="" group-title="SRB ➤SERBiA",SRB: 24 Kitchen HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83204
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Baby TV" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Baby TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83205
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Boomerang HD" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Boomerang HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83206
+#EXTINF:-1 tvg-id="" tvg-name="SRB: CMC Music HD" tvg-logo="" group-title="SRB ➤SERBiA",SRB: CMC Music HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83207
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Nova S HD" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Nova S HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83208
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Grand 1" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Grand 1
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83209
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Arena Sport 1 HD" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Arena Sport 1 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83210
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Arena Sport 2 HD" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Arena Sport 2 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83211
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Arena Sport 3 HD" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Arena Sport 3 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83212
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Arena Sport 4 HD" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Arena Sport 4 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83213
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Arena Sport 5 HD" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Arena Sport 5 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83214
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Arena Premium 1" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Arena Premium 1
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83215
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Arena Premium 2" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Arena Premium 2
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83216
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Arena Premium 3" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Arena Premium 3
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83217
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Sport Klub HD 1" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Sport Klub HD 1
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83218
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Sport Klub HD 2" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Sport Klub HD 2
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83219
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Sport Klub HD 3" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Sport Klub HD 3
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83220
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Sport Klub 4" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Sport Klub 4
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83221
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Sport Klub Golf" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Sport Klub Golf
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83222
+#EXTINF:-1 tvg-id="" tvg-name="SRB: EuroSport 1 HD" tvg-logo="" group-title="SRB ➤SERBiA",SRB: EuroSport 1 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83223
+#EXTINF:-1 tvg-id="" tvg-name="SRB: EuroSport 2 HD" tvg-logo="" group-title="SRB ➤SERBiA",SRB: EuroSport 2 HD
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83224
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Zadruga Live 1" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Zadruga Live 1
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83225
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Zadruga Live 2" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Zadruga Live 2
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83226
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Zadruga Live 3" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Zadruga Live 3
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83227
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Zadruga Live 4" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Zadruga Live 4
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83228
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Face TV" tvg-logo="" group-title="SRB ➤SERBiA",SRB: Face TV
+http://217.79.184.82:8080/ncm3996ydk/ncm11/83229
